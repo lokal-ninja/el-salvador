@@ -1,0 +1,20 @@
+baseURL = "https://sv.shoogle.net/el-salvador/"
+languageCode = "es"
+title = "El Salvador"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "el-salvador"
+
+[taxonomies]
+  shop = "shops"
+
