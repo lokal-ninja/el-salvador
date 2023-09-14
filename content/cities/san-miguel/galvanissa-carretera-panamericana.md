@@ -1,5 +1,5 @@
 ---
 title: "Galvanissa"
-url: /san-miguel/galvanissa/
+url: /san-miguel/galvanissa-carretera-panamericana/
 shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería el Buen Precio"
-url: /usulutan/ferreteria-el-buen-precio/
+url: /usulutan/ferreteria-el-buen-precio-carretera-el-litoral/
 shop: hardware
 ---

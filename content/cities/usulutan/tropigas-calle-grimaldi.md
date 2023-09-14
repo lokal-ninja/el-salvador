@@ -1,5 +1,5 @@
 ---
 title: "Tropigas"
-url: /usulutan/tropigas/
+url: /usulutan/tropigas-calle-grimaldi/
 shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pan Genesis"
-url: /metapan/pan-genesis/
+url: /metapan/pan-genesis-calle-benjamin-e-mancia/
 shop: panadería
 ---

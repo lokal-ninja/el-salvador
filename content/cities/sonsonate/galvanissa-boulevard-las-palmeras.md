@@ -1,5 +1,5 @@
 ---
 title: "Galvanissa"
-url: /sonsonate/galvanissa/
+url: /sonsonate/galvanissa-boulevard-las-palmeras/
 shop: hardware
 ---

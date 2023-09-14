@@ -1,5 +1,5 @@
 ---
 title: "Realice"
-url: /san-miguel/realice/
+url: /san-miguel/realice-alameda-roosevelt-carretera-panamericana/
 shop: electrónica
 ---

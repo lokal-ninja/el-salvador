@@ -1,5 +1,5 @@
 ---
 title: "Evolution"
-url: /usulutan/evolution/
+url: /usulutan/evolution-6-avenida-sur/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar City"
-url: /san-salvador/dollar-city/
+url: /san-salvador/dollar-city-paseo-general-escalon/
 shop: tienda rural
 ---

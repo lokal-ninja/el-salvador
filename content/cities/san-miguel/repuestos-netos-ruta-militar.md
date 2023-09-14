@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Neto's"
-url: /san-miguel/repuestos-netos/
+url: /san-miguel/repuestos-netos-ruta-militar/
 shop: piezas de automóviles
 ---

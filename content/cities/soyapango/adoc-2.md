@@ -1,5 +1,5 @@
 ---
 title: "ADOC"
-url: /soyapango/adoc/
+url: /soyapango/adoc-2/
 shop: zapatos
 ---

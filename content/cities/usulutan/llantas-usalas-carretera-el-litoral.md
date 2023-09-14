@@ -1,5 +1,5 @@
 ---
 title: "Llantas Usalas"
-url: /usulutan/llantas-usalas/
+url: /usulutan/llantas-usalas-carretera-el-litoral/
 shop: neumáticos
 ---

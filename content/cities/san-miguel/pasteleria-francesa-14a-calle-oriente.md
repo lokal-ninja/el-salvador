@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Francesa"
-url: /san-miguel/pasteleria-francesa/
+url: /san-miguel/pasteleria-francesa-14a-calle-oriente/
 shop: panadería
 ---

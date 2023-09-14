@@ -1,5 +1,5 @@
 ---
 title: "Lorena"
-url: /san-miguel/lorena/
+url: /san-miguel/lorena-3a-avenida-norte/
 shop: panadería
 ---

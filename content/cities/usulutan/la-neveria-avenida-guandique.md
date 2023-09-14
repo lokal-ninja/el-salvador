@@ -1,5 +1,5 @@
 ---
 title: "La Nevería"
-url: /usulutan/la-neveria/
+url: /usulutan/la-neveria-avenida-guandique/
 shop: helado
 ---
