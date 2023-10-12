@@ -1,6 +1,6 @@
 ---
 title: Tonacatepeque
 url: /tonacatepeque/
-latitude: 13.781
+latitude: 13.78
 longitude: -89.117
 ---
