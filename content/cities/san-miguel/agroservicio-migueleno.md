@@ -1,5 +1,5 @@
 ---
 title: "Agroservicio Migueleño"
 url: /san-miguel/agroservicio-migueleno/
-shop: granja
+shop: agraria
 ---
