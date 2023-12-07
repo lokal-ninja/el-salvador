@@ -1,6 +1,6 @@
 ---
 title: Concepcion Quezaltepeque
 url: /concepcion-quezaltepeque/
-latitude: 14.087
-longitude: -88.959
+latitude: 14.085
+longitude: -88.958
 ---
