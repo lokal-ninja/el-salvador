@@ -1,6 +1,6 @@
 ---
 title: San Miguel
 url: /san-miguel/
-latitude: 13.463
-longitude: -88.166
+latitude: 13.478
+longitude: -88.174
 ---
