@@ -1,5 +1,5 @@
 ---
 title: "Super Selectos"
-url: /san-salvador/super-selectos-2/
+url: /san-salvador/super-selectos-avenida-espana/
 shop: supermercado
 ---
