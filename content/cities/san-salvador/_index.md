@@ -1,6 +1,6 @@
 ---
 title: San Salvador
 url: /san-salvador/
-latitude: 13.685
-longitude: -89.192
+latitude: 13.701
+longitude: -89.215
 ---
