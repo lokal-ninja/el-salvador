@@ -1,5 +1,5 @@
 ---
-title: "Tienda del Hogar"
+title: "Tienda Del Hogar"
 url: /sonsonate/tienda-del-hogar/
-shop: general
+shop: comodidad
 ---
