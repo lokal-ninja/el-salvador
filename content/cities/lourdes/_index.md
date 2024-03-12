@@ -1,6 +1,6 @@
 ---
 title: Lourdes
 url: /lourdes/
-latitude: 13.724
-longitude: -89.369
+latitude: 13.725
+longitude: -89.367
 ---
