@@ -1,6 +1,6 @@
 ---
 title: Suchitoto
 url: /suchitoto/
-latitude: 13.937
-longitude: -89.028
+latitude: 13.936
+longitude: -89.027
 ---
