@@ -1,5 +1,5 @@
 ---
 title: "Speed Motoshop"
 url: /san-salvador/speed-motoshop/
-shop: general
+shop: motocicleta
 ---
