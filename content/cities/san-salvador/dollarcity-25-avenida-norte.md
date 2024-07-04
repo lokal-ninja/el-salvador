@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
-url: /san-salvador/dollarcity-2/
+url: /san-salvador/dollarcity-25-avenida-norte/
 shop: tienda de variedades
 ---
