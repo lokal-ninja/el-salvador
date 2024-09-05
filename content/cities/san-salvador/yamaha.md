@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /san-salvador/yamaha/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New York House"
 url: /santa-ana/new-york-house/
-shop: ropa
+shop: Kleidung
 ---

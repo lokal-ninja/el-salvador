@@ -1,5 +1,5 @@
 ---
 title: "La Ibérica"
 url: /antiguo-cuscatlan/la-iberica/
-shop: libros
+shop: Bücher
 ---

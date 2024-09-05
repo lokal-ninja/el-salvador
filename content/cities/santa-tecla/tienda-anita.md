@@ -1,5 +1,5 @@
 ---
 title: "Tienda Anita"
 url: /santa-tecla/tienda-anita/
-shop: general
+shop: Allgemein
 ---

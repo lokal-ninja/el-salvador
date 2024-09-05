@@ -1,5 +1,5 @@
 ---
 title: "Monolit"
 url: /sonsonate/monolit/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foto Copias"
 url: /usulutan/foto-copias/
-shop: copyshop
+shop: Kopieren
 ---

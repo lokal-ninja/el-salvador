@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Miscelánea San Antonio"
 url: /zacatecoluca/ferreteria-miscelanea-san-antonio/
-shop: hardware
+shop: Eisenwaren
 ---

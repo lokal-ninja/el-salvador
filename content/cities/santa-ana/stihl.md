@@ -1,5 +1,5 @@
 ---
 title: "Stihl"
 url: /santa-ana/stihl/
-shop: electrónica
+shop: Elektronik
 ---

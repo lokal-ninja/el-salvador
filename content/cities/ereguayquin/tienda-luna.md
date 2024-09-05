@@ -1,5 +1,5 @@
 ---
 title: "Tienda Luna"
 url: /ereguayquin/tienda-luna/
-shop: joyería
+shop: Schmuck
 ---

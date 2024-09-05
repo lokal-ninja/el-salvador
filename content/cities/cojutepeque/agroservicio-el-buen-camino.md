@@ -1,5 +1,5 @@
 ---
 title: "Agroservicio El Buen Camino"
 url: /cojutepeque/agroservicio-el-buen-camino/
-shop: general
+shop: Allgemein
 ---

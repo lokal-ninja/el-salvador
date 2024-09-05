@@ -1,5 +1,5 @@
 ---
 title: "Ferretería La Favorita"
 url: /santa-tecla/ferreteria-la-favorita-6a-calle-poniente/
-shop: hágalo usted mismo
+shop: Baumarkt
 ---

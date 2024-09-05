@@ -1,5 +1,5 @@
 ---
 title: "La Escandella"
 url: /san-miguel/la-escandella/
-shop: baldosas
+shop: Fliesen
 ---

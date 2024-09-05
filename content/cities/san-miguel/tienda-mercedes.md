@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mercedes"
 url: /san-miguel/tienda-mercedes/
-shop: quiosco
+shop: Kiosk
 ---

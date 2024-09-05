@@ -1,5 +1,5 @@
 ---
 title: "Llanresal"
 url: /san-salvador/llanresal/
-shop: neumáticos
+shop: Reifen
 ---

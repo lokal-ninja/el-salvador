@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /llopango/puma/
-shop: comodidad
+shop: Lebensmittel
 ---

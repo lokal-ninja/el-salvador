@@ -1,5 +1,5 @@
 ---
 title: "Tecnimotos"
 url: /san-miguel/tecnimotos/
-shop: motocicleta
+shop: Motorrad
 ---

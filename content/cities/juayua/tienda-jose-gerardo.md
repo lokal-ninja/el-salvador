@@ -1,5 +1,5 @@
 ---
 title: "Tienda Jose Gerardo"
 url: /juayua/tienda-jose-gerardo/
-shop: general
+shop: Allgemein
 ---

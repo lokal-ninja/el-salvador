@@ -1,5 +1,5 @@
 ---
 title: "Óptica Oftalmológica"
 url: /san-miguel/optica-oftalmologica/
-shop: óptico
+shop: Optiker
 ---

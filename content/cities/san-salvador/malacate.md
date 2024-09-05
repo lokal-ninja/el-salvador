@@ -1,5 +1,5 @@
 ---
 title: "Malacate"
 url: /san-salvador/malacate/
-shop: peluquería
+shop: Friseur
 ---

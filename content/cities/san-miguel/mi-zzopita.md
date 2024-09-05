@@ -1,5 +1,5 @@
 ---
 title: "Mi ZZopita"
 url: /san-miguel/mi-zzopita/
-shop: supermercado
+shop: Supermarkt
 ---

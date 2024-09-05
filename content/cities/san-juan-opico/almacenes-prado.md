@@ -1,5 +1,5 @@
 ---
 title: "Almacenes PRADO"
 url: /san-juan-opico/almacenes-prado/
-shop: aparato
+shop: Haushaltsgeräte
 ---

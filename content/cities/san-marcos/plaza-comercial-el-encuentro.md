@@ -1,5 +1,5 @@
 ---
 title: "Plaza Comercial El Encuentro"
 url: /san-marcos/plaza-comercial-el-encuentro/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

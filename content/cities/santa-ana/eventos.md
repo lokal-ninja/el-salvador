@@ -1,5 +1,5 @@
 ---
 title: "Eventos"
 url: /santa-ana/eventos/
-shop: artesanía
+shop: Basteln
 ---

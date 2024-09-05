@@ -1,5 +1,5 @@
 ---
 title: "Galvanissa"
 url: /san-miguel/galvanissa/
-shop: comercio
+shop: Baustoffe
 ---

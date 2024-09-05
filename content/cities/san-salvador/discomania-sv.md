@@ -1,5 +1,5 @@
 ---
 title: "Discomania SV"
 url: /san-salvador/discomania-sv/
-shop: música
+shop: Musik
 ---

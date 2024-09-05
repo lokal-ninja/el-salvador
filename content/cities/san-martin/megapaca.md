@@ -1,5 +1,5 @@
 ---
 title: "Megapaca"
 url: /san-martin/megapaca/
-shop: ropa
+shop: Kleidung
 ---

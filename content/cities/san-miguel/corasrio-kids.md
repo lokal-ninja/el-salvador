@@ -1,5 +1,5 @@
 ---
 title: "Corasrio Kids"
 url: /san-miguel/corasrio-kids/
-shop: bicicleta
+shop: Fahrrad
 ---

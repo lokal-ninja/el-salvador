@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /santa-tecla/sherwin-williams/
-shop: pintura
+shop: Farben
 ---

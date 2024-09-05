@@ -1,5 +1,5 @@
 ---
 title: "Evolution Salón"
 url: /apopa/evolution-salon/
-shop: peluquería
+shop: Friseur
 ---

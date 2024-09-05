@@ -1,5 +1,5 @@
 ---
 title: "FBT Loudspeakers"
 url: /san-miguel/fbt-loudspeakers/
-shop: general
+shop: Allgemein
 ---

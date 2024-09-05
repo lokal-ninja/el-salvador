@@ -1,5 +1,5 @@
 ---
 title: "Ferrominera"
 url: /sonsonate/ferrominera/
-shop: hardware
+shop: Eisenwaren
 ---

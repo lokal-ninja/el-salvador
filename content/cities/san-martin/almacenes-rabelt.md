@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Rabelt"
 url: /san-martin/almacenes-rabelt/
-shop: general
+shop: Allgemein
 ---

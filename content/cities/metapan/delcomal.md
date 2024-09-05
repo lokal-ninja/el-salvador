@@ -1,5 +1,5 @@
 ---
 title: "DelComal"
 url: /metapan/delcomal/
-shop: comodidad
+shop: Lebensmittel
 ---

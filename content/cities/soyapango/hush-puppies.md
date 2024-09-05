@@ -1,5 +1,5 @@
 ---
 title: "Hush Puppies"
 url: /soyapango/hush-puppies/
-shop: zapatos
+shop: Schuhe
 ---

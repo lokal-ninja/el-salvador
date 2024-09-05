@@ -1,5 +1,5 @@
 ---
 title: "Taller Ramos"
 url: /san-bartolome-perulapia/taller-ramos/
-shop: general
+shop: Allgemein
 ---

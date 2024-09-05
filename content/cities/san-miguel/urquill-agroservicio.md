@@ -1,5 +1,5 @@
 ---
 title: "Urquill Agroservicio"
 url: /san-miguel/urquill-agroservicio/
-shop: granja
+shop: Hofladen
 ---

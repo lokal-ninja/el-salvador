@@ -1,5 +1,5 @@
 ---
 title: "Maga"
 url: /quezaltepeque/maga/
-shop: zapatos
+shop: Schuhe
 ---

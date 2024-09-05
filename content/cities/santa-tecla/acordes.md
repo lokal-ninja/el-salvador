@@ -1,5 +1,5 @@
 ---
 title: "Acordes"
 url: /santa-tecla/acordes/
-shop: música
+shop: Musik
 ---

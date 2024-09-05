@@ -1,5 +1,5 @@
 ---
 title: "Super Selectos Unicentro Metrópolis"
 url: /mejicanos/super-selectos-unicentro-metropolis/
-shop: supermercado
+shop: Supermarkt
 ---

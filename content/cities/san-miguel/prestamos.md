@@ -1,5 +1,5 @@
 ---
 title: "Prestamos"
 url: /san-miguel/prestamos/
-shop: prestamista
+shop: Leiher
 ---

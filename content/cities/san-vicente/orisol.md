@@ -1,5 +1,5 @@
 ---
 title: "Orisol"
 url: /san-vicente/orisol/
-shop: comodidad
+shop: Lebensmittel
 ---

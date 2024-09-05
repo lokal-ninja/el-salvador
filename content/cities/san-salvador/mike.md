@@ -1,5 +1,5 @@
 ---
 title: "Mike"
 url: /san-salvador/mike/
-shop: general
+shop: Allgemein
 ---

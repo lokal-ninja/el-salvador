@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /mejicanos/honda/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mini Librería Oseas"
 url: /los-naranjos/mini-libreria-oseas/
-shop: libros
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sports Bikes"
 url: /san-salvador/sports-bikes/
-shop: bicicleta
+shop: Fahrrad
 ---

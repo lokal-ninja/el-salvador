@@ -1,5 +1,5 @@
 ---
 title: "Óptica Vision Central"
 url: /san-vicente/optica-vision-central/
-shop: óptico
+shop: Optiker
 ---

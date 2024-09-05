@@ -1,5 +1,5 @@
 ---
 title: "El Progreso"
 url: /apopa/el-progreso/
-shop: hardware
+shop: Eisenwaren
 ---

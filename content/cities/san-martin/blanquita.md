@@ -1,5 +1,5 @@
 ---
 title: "Blanquita"
 url: /san-martin/blanquita/
-shop: panadería
+shop: Bäckerei
 ---

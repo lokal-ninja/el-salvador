@@ -1,5 +1,5 @@
 ---
 title: "Dollar City"
 url: /san-marcos/dollar-city/
-shop: comodidad
+shop: Lebensmittel
 ---

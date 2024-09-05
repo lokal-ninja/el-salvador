@@ -1,5 +1,5 @@
 ---
 title: "Genesis Boutique"
 url: /san-miguel/genesis-boutique/
-shop: tienda
+shop: Modehaus
 ---

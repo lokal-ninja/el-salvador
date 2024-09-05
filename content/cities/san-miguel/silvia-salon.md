@@ -1,5 +1,5 @@
 ---
 title: "Silvia Salón"
 url: /san-miguel/silvia-salon/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shunfeng"
 url: /san-salvador/shunfeng/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agroservicio La Vaquita"
 url: /metapan/agroservicio-la-vaquita/
-shop: hardware
+shop: Eisenwaren
 ---

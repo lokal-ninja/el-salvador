@@ -1,5 +1,5 @@
 ---
 title: "Cerámicas Primavera"
 url: /usulutan/ceramicas-primavera/
-shop: baldosas
+shop: Fliesen
 ---

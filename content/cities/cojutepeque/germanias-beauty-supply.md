@@ -1,5 +1,5 @@
 ---
 title: "Germania's Beauty Supply"
 url: /cojutepeque/germanias-beauty-supply/
-shop: cosméticos
+shop: Kosmetik
 ---

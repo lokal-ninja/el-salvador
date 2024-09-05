@@ -1,5 +1,5 @@
 ---
 title: "Comercial Dario"
 url: /san-martin/comercial-dario/
-shop: muebles
+shop: Möbel
 ---

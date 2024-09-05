@@ -1,5 +1,5 @@
 ---
 title: "PDEBOB Express"
 url: /santa-tecla/pdebob-express/
-shop: mascotas
+shop: Tiere
 ---

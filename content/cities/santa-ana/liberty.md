@@ -1,5 +1,5 @@
 ---
 title: "Liberty"
 url: /santa-ana/liberty/
-shop: general
+shop: Allgemein
 ---

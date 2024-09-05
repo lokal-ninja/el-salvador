@@ -1,5 +1,5 @@
 ---
 title: "Panameño"
 url: /usulutan/panameno/
-shop: general
+shop: Allgemein
 ---

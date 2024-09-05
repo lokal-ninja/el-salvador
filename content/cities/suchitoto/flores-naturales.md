@@ -1,5 +1,5 @@
 ---
 title: "Flores Naturales"
 url: /suchitoto/flores-naturales/
-shop: floristería
+shop: Blumen
 ---

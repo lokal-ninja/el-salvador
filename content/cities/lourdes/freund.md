@@ -1,5 +1,5 @@
 ---
 title: "FREUND"
 url: /lourdes/freund/
-shop: hardware
+shop: Eisenwaren
 ---

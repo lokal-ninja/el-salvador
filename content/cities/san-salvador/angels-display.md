@@ -1,5 +1,5 @@
 ---
 title: "Angel's Display"
 url: /san-salvador/angels-display/
-shop: general
+shop: Allgemein
 ---

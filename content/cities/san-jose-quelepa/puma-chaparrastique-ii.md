@@ -1,5 +1,5 @@
 ---
 title: "Puma Chaparrastique II"
 url: /san-jose-quelepa/puma-chaparrastique-ii/
-shop: comodidad
+shop: Lebensmittel
 ---

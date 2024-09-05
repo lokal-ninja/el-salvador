@@ -1,5 +1,5 @@
 ---
 title: "Camas Imperial"
 url: /santa-tecla/camas-imperial/
-shop: cama
+shop: Betten
 ---

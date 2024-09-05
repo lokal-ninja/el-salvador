@@ -1,5 +1,5 @@
 ---
 title: "Zapatón"
 url: /santa-tecla/zapaton/
-shop: zapatos
+shop: Schuhe
 ---

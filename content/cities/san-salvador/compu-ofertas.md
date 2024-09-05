@@ -1,5 +1,5 @@
 ---
 title: "Compu Ofertas"
 url: /san-salvador/compu-ofertas/
-shop: general
+shop: Allgemein
 ---

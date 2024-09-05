@@ -1,5 +1,5 @@
 ---
 title: "Viduc"
 url: /san-salvador/viduc/
-shop: hardware
+shop: Eisenwaren
 ---

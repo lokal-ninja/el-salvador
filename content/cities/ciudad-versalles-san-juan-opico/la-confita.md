@@ -1,5 +1,5 @@
 ---
 title: "La Confita"
 url: /ciudad-versalles-san-juan-opico/la-confita/
-shop: confitería
+shop: Süßwaren
 ---

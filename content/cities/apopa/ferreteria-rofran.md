@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Rofran"
 url: /apopa/ferreteria-rofran/
-shop: hardware
+shop: Eisenwaren
 ---

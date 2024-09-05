@@ -1,5 +1,5 @@
 ---
 title: "Libreria"
 url: /apopa/libreria/
-shop: libros
+shop: Bücher
 ---

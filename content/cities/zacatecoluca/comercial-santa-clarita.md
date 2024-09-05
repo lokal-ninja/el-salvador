@@ -1,5 +1,5 @@
 ---
 title: "Comercial Santa Clarita"
 url: /zacatecoluca/comercial-santa-clarita/
-shop: general
+shop: Allgemein
 ---

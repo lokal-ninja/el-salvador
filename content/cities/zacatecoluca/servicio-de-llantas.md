@@ -1,5 +1,5 @@
 ---
 title: "Servicio de Llantas"
 url: /zacatecoluca/servicio-de-llantas/
-shop: neumáticos
+shop: Reifen
 ---

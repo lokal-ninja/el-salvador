@@ -1,5 +1,5 @@
 ---
 title: "Zeta gas El Tanque"
 url: /apopa/zeta-gas-el-tanque/
-shop: gas
+shop: Gasflaschen
 ---

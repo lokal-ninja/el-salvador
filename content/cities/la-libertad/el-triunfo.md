@@ -1,5 +1,5 @@
 ---
 title: "El Triunfo"
 url: /la-libertad/el-triunfo/
-shop: hardware
+shop: Eisenwaren
 ---

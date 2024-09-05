@@ -1,5 +1,5 @@
 ---
 title: "Comercial Portillo"
 url: /santa-ana/comercial-portillo/
-shop: electrónica
+shop: Elektronik
 ---

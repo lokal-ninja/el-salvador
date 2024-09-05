@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /zacatecoluca/comex/
-shop: pintura
+shop: Farben
 ---

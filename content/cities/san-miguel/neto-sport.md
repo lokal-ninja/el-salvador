@@ -1,5 +1,5 @@
 ---
 title: "Neto Sport"
 url: /san-miguel/neto-sport/
-shop: deportes
+shop: Sport
 ---

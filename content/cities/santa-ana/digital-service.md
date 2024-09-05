@@ -1,5 +1,5 @@
 ---
 title: "Digital Service"
 url: /santa-ana/digital-service/
-shop: ordenador
+shop: Computer
 ---

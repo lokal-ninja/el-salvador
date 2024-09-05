@@ -1,5 +1,5 @@
 ---
 title: "Bodega de Frutas y Verduras"
 url: /san-miguel/bodega-de-frutas-y-verduras/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Rene"
 url: /concepcion-quezaltepeque/tienda-rene/
-shop: comodidad
+shop: Lebensmittel
 ---

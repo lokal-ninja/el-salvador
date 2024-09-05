@@ -1,5 +1,5 @@
 ---
 title: "Tienda Eben-Ezer"
 url: /santa-tecla/tienda-eben-ezer/
-shop: comodidad
+shop: Lebensmittel
 ---

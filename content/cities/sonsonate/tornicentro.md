@@ -1,5 +1,5 @@
 ---
 title: "Tornicentro"
 url: /sonsonate/tornicentro/
-shop: hardware
+shop: Eisenwaren
 ---

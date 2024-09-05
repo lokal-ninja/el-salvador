@@ -1,5 +1,5 @@
 ---
 title: "Iconos"
 url: /san-salvador/iconos/
-shop: cosméticos
+shop: Kosmetik
 ---

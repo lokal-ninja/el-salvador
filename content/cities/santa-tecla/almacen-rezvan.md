@@ -1,5 +1,5 @@
 ---
 title: "Almacen Rezvan"
 url: /santa-tecla/almacen-rezvan/
-shop: general
+shop: Allgemein
 ---

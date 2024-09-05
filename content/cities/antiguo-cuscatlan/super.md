@@ -1,5 +1,5 @@
 ---
 title: "Super"
 url: /antiguo-cuscatlan/super/
-shop: comodidad
+shop: Lebensmittel
 ---

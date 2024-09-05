@@ -1,5 +1,5 @@
 ---
 title: "Josue"
 url: /san-miguel/josue/
-shop: panadería
+shop: Bäckerei
 ---

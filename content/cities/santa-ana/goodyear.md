@@ -1,5 +1,5 @@
 ---
 title: "GoodYear"
 url: /santa-ana/goodyear/
-shop: neumáticos
+shop: Reifen
 ---

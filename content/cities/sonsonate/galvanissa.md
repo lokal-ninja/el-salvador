@@ -1,5 +1,5 @@
 ---
 title: "Galvanissa"
 url: /sonsonate/galvanissa/
-shop: hardware
+shop: Eisenwaren
 ---

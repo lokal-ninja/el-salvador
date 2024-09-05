@@ -1,5 +1,5 @@
 ---
 title: "Sarita"
 url: /chalchuapa/sarita/
-shop: general
+shop: Allgemein
 ---

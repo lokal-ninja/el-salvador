@@ -1,5 +1,5 @@
 ---
 title: "Ferretería El Progreso"
 url: /quezaltepeque/ferreteria-el-progreso/
-shop: hardware
+shop: Eisenwaren
 ---

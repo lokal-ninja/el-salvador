@@ -1,5 +1,5 @@
 ---
 title: "Fertilizantes del istmo"
 url: /ereguayquin/fertilizantes-del-istmo/
-shop: supermercado
+shop: Supermarkt
 ---

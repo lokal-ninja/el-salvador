@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Bou"
 url: /san-miguel/almacenes-bou/
-shop: supermercado
+shop: Supermarkt
 ---

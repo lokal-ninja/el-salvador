@@ -1,5 +1,5 @@
 ---
 title: "Depósito de Telas"
 url: /usulutan/deposito-de-telas/
-shop: tela
+shop: Textil
 ---

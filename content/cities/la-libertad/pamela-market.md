@@ -1,5 +1,5 @@
 ---
 title: "Pamela Market"
 url: /la-libertad/pamela-market/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Megaboutique"
 url: /san-salvador/megaboutique/
-shop: tienda
+shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxi Despensa"
 url: /santa-ana/maxi-despensa/
-shop: supermercado
+shop: Supermarkt
 ---

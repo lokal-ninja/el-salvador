@@ -1,5 +1,5 @@
 ---
 title: "Tienda La"
 url: /santa-tecla/tienda-la/
-shop: general
+shop: Allgemein
 ---

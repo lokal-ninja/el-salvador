@@ -1,5 +1,5 @@
 ---
 title: "Tigo"
 url: /sonsonate/tigo/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Lupita"
 url: /concepcion-quezaltepeque/ferreteria-lupita/
-shop: hardware
+shop: Eisenwaren
 ---

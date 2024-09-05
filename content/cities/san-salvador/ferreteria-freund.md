@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Freund"
 url: /san-salvador/ferreteria-freund/
-shop: hardware
+shop: Eisenwaren
 ---

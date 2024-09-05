@@ -1,5 +1,5 @@
 ---
 title: "Electrónica Japonesa"
 url: /san-salvador/electronica-japonesa/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /sonsonate/radioshack/
-shop: electrónica
+shop: Elektronik
 ---

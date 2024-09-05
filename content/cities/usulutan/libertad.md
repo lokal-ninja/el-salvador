@@ -1,5 +1,5 @@
 ---
 title: "Libertad"
 url: /usulutan/libertad/
-shop: general
+shop: Allgemein
 ---

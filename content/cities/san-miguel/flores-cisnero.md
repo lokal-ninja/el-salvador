@@ -1,5 +1,5 @@
 ---
 title: "Flores Cisnero"
 url: /san-miguel/flores-cisnero/
-shop: electrónica
+shop: Elektronik
 ---

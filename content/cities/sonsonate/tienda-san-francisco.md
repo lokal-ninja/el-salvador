@@ -1,5 +1,5 @@
 ---
 title: "Tienda San Francisco"
 url: /sonsonate/tienda-san-francisco/
-shop: comodidad
+shop: Lebensmittel
 ---

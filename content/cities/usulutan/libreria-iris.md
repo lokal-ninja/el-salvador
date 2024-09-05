@@ -1,5 +1,5 @@
 ---
 title: "Libreria Iris"
 url: /usulutan/libreria-iris/
-shop: libros
+shop: Bücher
 ---

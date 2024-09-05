@@ -1,5 +1,5 @@
 ---
 title: "Continental"
 url: /santa-tecla/continental/
-shop: comodidad
+shop: Lebensmittel
 ---

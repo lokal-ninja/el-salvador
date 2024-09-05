@@ -1,5 +1,5 @@
 ---
 title: "Super Selectos La Cañada"
 url: /antiguo-cuscatlan/super-selectos-la-canada/
-shop: supermercado
+shop: Supermarkt
 ---

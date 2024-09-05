@@ -1,5 +1,5 @@
 ---
 title: "Comercial Carlito"
 url: /san-miguel/comercial-carlito/
-shop: comodidad
+shop: Lebensmittel
 ---

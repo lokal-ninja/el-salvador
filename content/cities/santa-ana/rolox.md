@@ -1,5 +1,5 @@
 ---
 title: "Rolox"
 url: /santa-ana/rolox/
-shop: general
+shop: Allgemein
 ---

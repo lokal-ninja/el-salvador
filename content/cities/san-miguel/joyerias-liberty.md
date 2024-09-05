@@ -1,5 +1,5 @@
 ---
 title: "Joyerias Liberty"
 url: /san-miguel/joyerias-liberty/
-shop: joyería
+shop: Schmuck
 ---

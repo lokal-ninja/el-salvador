@@ -1,5 +1,5 @@
 ---
 title: "Vega Accesorios Kiosko"
 url: /berlin/vega-accesorios-kiosko/
-shop: general
+shop: Allgemein
 ---

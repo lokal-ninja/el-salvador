@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Asper"
 url: /san-miguel/distribuidora-asper/
-shop: general
+shop: Allgemein
 ---

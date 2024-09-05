@@ -1,5 +1,5 @@
 ---
 title: "Omnisport"
 url: /cojutepeque/omnisport/
-shop: aparato
+shop: Haushaltsgeräte
 ---

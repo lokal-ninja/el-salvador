@@ -1,5 +1,5 @@
 ---
 title: "Juan Valdez Café"
 url: /san-salvador/juan-valdez-cafe/
-shop: café
+shop: Kaffee
 ---
