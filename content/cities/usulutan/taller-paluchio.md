@@ -1,5 +1,5 @@
 ---
 title: "Taller Paluchio"
 url: /usulutan/taller-paluchio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

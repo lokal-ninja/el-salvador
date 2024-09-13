@@ -1,5 +1,5 @@
 ---
 title: "Variedades"
 url: /usulutan/variedades/
-shop: Kramladen
+shop: tienda de variedades
 ---

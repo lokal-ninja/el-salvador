@@ -1,5 +1,5 @@
 ---
 title: "Maria Axiliadora"
 url: /tonacatepeque/maria-axiliadora/
-shop: Schreibwaren
+shop: material de oficina
 ---

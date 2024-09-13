@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /sonsonate/comex/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paco Deportes"
 url: /usulutan/paco-deportes/
-shop: Sport
+shop: deportes
 ---

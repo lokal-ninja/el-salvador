@@ -1,5 +1,5 @@
 ---
 title: "Funerales Chacon"
 url: /santa-ana/funerales-chacon/
-shop: Bestattungen
+shop: directores de funerarias
 ---

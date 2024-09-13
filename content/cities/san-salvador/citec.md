@@ -1,5 +1,5 @@
 ---
 title: "CITEC"
 url: /san-salvador/citec/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

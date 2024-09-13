@@ -1,5 +1,5 @@
 ---
 title: "Calzado Eliseo"
 url: /sonsonate/calzado-eliseo/
-shop: Schuhe
+shop: zapatos
 ---

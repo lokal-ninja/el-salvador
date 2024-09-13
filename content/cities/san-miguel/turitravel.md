@@ -1,5 +1,5 @@
 ---
 title: "Turitravel"
 url: /san-miguel/turitravel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

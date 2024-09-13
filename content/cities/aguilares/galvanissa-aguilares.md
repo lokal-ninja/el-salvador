@@ -1,5 +1,5 @@
 ---
 title: "Galvanissa AGUILARES"
 url: /aguilares/galvanissa-aguilares/
-shop: Eisenwaren
+shop: hardware
 ---

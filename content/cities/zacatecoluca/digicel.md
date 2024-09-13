@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
 url: /zacatecoluca/digicel/
-shop: Handy
+shop: teléfono móvil
 ---

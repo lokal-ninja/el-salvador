@@ -1,5 +1,5 @@
 ---
 title: "Auto Inversiones STP"
 url: /santa-tecla/auto-inversiones-stp/
-shop: Autoteile
+shop: piezas de automóviles
 ---

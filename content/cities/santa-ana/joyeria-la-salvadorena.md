@@ -1,5 +1,5 @@
 ---
 title: "Joyeria La Salvadorena"
 url: /santa-ana/joyeria-la-salvadorena/
-shop: Schmuck
+shop: joyería
 ---

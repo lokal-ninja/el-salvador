@@ -1,5 +1,5 @@
 ---
 title: "Ropa Americana"
 url: /santa-ana/ropa-americana/
-shop: Kleidung
+shop: ropa
 ---

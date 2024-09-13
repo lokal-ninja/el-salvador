@@ -1,5 +1,5 @@
 ---
 title: "Exodo"
 url: /aguilares/exodo/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avianca"
 url: /san-miguel/avianca/
-shop: Reisebüro
+shop: agencia de viajes
 ---

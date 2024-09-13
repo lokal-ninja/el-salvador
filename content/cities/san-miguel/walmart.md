@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /san-miguel/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

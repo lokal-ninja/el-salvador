@@ -1,5 +1,5 @@
 ---
 title: "Mayan Gifts"
 url: /san-salvador/mayan-gifts/
-shop: Basteln
+shop: artesanía
 ---

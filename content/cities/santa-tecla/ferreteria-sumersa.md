@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Sumersa"
 url: /santa-tecla/ferreteria-sumersa/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "My Moda"
 url: /metapan/my-moda/
-shop: Kleidung
+shop: ropa
 ---

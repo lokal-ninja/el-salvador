@@ -1,5 +1,5 @@
 ---
 title: "Camisetas Estampadas"
 url: /lourdes/camisetas-estampadas/
-shop: Kleidung
+shop: ropa
 ---

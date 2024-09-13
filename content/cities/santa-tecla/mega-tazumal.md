@@ -1,5 +1,5 @@
 ---
 title: "Mega Tazumal"
 url: /santa-tecla/mega-tazumal/
-shop: Allgemein
+shop: general
 ---

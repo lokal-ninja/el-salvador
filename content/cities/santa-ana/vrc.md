@@ -1,5 +1,5 @@
 ---
 title: "VRC"
 url: /santa-ana/vrc/
-shop: Autoteile
+shop: piezas de automóviles
 ---

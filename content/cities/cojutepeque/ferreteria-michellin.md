@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Michellin"
 url: /cojutepeque/ferreteria-michellin/
-shop: Eisenwaren
+shop: hardware
 ---

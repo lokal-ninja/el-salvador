@@ -1,5 +1,5 @@
 ---
 title: "El Despertar en Cristo"
 url: /san-miguel/el-despertar-en-cristo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

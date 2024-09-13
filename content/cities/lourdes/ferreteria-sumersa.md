@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Sumersa"
 url: /lourdes/ferreteria-sumersa/
-shop: Eisenwaren
+shop: hardware
 ---

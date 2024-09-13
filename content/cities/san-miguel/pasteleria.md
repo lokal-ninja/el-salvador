@@ -1,5 +1,5 @@
 ---
 title: "Pastelería"
 url: /san-miguel/pasteleria/
-shop: Bäckerei
+shop: panadería
 ---

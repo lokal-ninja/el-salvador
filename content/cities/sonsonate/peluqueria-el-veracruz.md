@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria el Veracruz"
 url: /sonsonate/peluqueria-el-veracruz/
-shop: Friseur
+shop: peluquería
 ---

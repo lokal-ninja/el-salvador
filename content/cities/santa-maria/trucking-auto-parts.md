@@ -1,5 +1,5 @@
 ---
 title: "Trucking Auto Parts"
 url: /santa-maria/trucking-auto-parts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

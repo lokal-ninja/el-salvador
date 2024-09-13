@@ -1,5 +1,5 @@
 ---
 title: "Autodo"
 url: /san-salvador/autodo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

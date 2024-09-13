@@ -1,5 +1,5 @@
 ---
 title: "Marina Salón"
 url: /san-miguel/marina-salon/
-shop: Friseur
+shop: peluquería
 ---

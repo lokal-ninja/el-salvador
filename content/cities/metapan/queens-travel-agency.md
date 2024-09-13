@@ -1,5 +1,5 @@
 ---
 title: "Queen's Travel Agency"
 url: /metapan/queens-travel-agency/
-shop: Reisebüro
+shop: agencia de viajes
 ---

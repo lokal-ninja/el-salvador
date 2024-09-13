@@ -1,5 +1,5 @@
 ---
 title: "Gran Dollar"
 url: /san-salvador/gran-dollar/
-shop: Kramladen
+shop: tienda de variedades
 ---

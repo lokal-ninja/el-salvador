@@ -1,5 +1,5 @@
 ---
 title: "Tía Cory"
 url: /platanares/tia-cory/
-shop: Lebensmittel
+shop: comodidad
 ---

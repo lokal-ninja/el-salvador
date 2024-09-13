@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /san-juan-opico/dollarcity/
-shop: Kramladen
+shop: tienda de variedades
 ---

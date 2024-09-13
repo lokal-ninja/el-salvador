@@ -1,5 +1,5 @@
 ---
 title: "Taller Moreno"
 url: /santa-ana/taller-moreno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

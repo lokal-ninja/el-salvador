@@ -1,5 +1,5 @@
 ---
 title: "Megapaca"
 url: /sonsonate/megapaca/
-shop: Kleidung
+shop: ropa
 ---

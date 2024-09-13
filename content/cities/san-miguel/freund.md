@@ -1,5 +1,5 @@
 ---
 title: "Freund"
 url: /san-miguel/freund/
-shop: Farben
+shop: pintura
 ---

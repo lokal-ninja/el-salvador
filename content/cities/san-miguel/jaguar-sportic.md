@@ -1,5 +1,5 @@
 ---
 title: "Jaguar Sportic"
 url: /san-miguel/jaguar-sportic/
-shop: Sport
+shop: deportes
 ---

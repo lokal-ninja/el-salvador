@@ -1,5 +1,5 @@
 ---
 title: "Casa Grande"
 url: /san-martin/casa-grande/
-shop: Lebensmittel
+shop: comodidad
 ---

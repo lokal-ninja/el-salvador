@@ -1,5 +1,5 @@
 ---
 title: "Óptica Exclusiva"
 url: /san-miguel/optica-exclusiva/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Raquelita"
 url: /berlin/tienda-raquelita/
-shop: Supermarkt
+shop: supermercado
 ---

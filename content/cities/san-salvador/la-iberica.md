@@ -1,5 +1,5 @@
 ---
 title: "La Iberica"
 url: /san-salvador/la-iberica/
-shop: Schreibwaren
+shop: material de oficina
 ---

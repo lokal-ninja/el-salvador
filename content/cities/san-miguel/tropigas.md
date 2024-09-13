@@ -1,5 +1,5 @@
 ---
 title: "Tropigas"
 url: /san-miguel/tropigas/
-shop: Elektronik
+shop: electrónica
 ---

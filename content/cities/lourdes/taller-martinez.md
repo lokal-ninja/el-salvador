@@ -1,5 +1,5 @@
 ---
 title: "Taller Martinez"
 url: /lourdes/taller-martinez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

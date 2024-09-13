@@ -1,5 +1,5 @@
 ---
 title: "Universal Store"
 url: /santa-tecla/universal-store/
-shop: Allgemein
+shop: general
 ---

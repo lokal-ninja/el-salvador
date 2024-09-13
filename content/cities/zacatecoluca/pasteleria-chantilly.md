@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Chantilly"
 url: /zacatecoluca/pasteleria-chantilly/
-shop: Bäckerei
+shop: panadería
 ---

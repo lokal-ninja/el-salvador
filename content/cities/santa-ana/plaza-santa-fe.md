@@ -1,5 +1,5 @@
 ---
 title: "Plaza Santa Fe"
 url: /santa-ana/plaza-santa-fe/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller Morales"
 url: /san-martin/taller-morales/
-shop: Elektronik
+shop: electrónica
 ---

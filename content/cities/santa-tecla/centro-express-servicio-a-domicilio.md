@@ -1,5 +1,5 @@
 ---
 title: "Centro Express Servicio a Domicilio"
 url: /santa-tecla/centro-express-servicio-a-domicilio/
-shop: Allgemein
+shop: general
 ---

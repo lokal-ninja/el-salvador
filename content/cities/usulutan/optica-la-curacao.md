@@ -1,5 +1,5 @@
 ---
 title: "Óptica la Curacao"
 url: /usulutan/optica-la-curacao/
-shop: Optiker
+shop: óptico
 ---

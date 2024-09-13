@@ -1,5 +1,5 @@
 ---
 title: "Las Flores"
 url: /san-salvador/las-flores/
-shop: Bestattungen
+shop: directores de funerarias
 ---

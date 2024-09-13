@@ -1,5 +1,5 @@
 ---
 title: "Edificio Callven"
 url: /san-salvador/edificio-callven/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

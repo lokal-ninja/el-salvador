@@ -1,5 +1,5 @@
 ---
 title: "Agroservicio MC"
 url: /lourdes/agroservicio-mc/
-shop: Allgemein
+shop: general
 ---

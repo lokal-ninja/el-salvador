@@ -1,5 +1,5 @@
 ---
 title: "Florida Papeleria"
 url: /santa-tecla/florida-papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

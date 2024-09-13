@@ -1,5 +1,5 @@
 ---
 title: "Clásicos Roxil"
 url: /santa-tecla/clasicos-roxil/
-shop: Bücher
+shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar City"
 url: /san-miguel/dollar-city-alameda-roosevelt-carretera-panamericana-2/
-shop: Kramladen
+shop: tienda de variedades
 ---

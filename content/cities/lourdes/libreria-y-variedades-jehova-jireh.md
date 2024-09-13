@@ -1,5 +1,5 @@
 ---
 title: "Librería y Variedades Jehová Jireh"
 url: /lourdes/libreria-y-variedades-jehova-jireh/
-shop: Schreibwaren
+shop: material de oficina
 ---

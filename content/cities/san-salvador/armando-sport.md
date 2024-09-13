@@ -1,5 +1,5 @@
 ---
 title: "Armando Sport"
 url: /san-salvador/armando-sport/
-shop: Schuhe
+shop: zapatos
 ---

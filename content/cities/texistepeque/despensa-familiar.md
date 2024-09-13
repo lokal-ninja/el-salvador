@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /texistepeque/despensa-familiar/
-shop: Supermarkt
+shop: supermercado
 ---

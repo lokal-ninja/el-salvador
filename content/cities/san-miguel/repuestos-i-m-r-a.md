@@ -1,5 +1,5 @@
 ---
 title: "Repuestos I.M.R.A."
 url: /san-miguel/repuestos-i-m-r-a/
-shop: Autoteile
+shop: piezas de automóviles
 ---

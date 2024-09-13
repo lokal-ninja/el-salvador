@@ -1,5 +1,5 @@
 ---
 title: "Funerales Isis"
 url: /santa-tecla/funerales-isis/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mi Tienda"
 url: /sonsonate/mi-tienda/
-shop: Lebensmittel
+shop: comodidad
 ---

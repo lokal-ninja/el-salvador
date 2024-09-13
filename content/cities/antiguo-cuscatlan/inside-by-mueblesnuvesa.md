@@ -1,5 +1,5 @@
 ---
 title: "Inside by MueblesNuvesa"
 url: /antiguo-cuscatlan/inside-by-mueblesnuvesa/
-shop: Möbel
+shop: muebles
 ---

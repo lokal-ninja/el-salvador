@@ -1,5 +1,5 @@
 ---
 title: "Vidrí Merliot"
 url: /santa-tecla/vidri-merliot/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

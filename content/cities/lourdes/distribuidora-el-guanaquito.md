@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora El Guanaquito"
 url: /lourdes/distribuidora-el-guanaquito/
-shop: Allgemein
+shop: general
 ---

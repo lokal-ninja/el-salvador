@@ -1,5 +1,5 @@
 ---
 title: "Activaciones Don Julito 2"
 url: /berlin/activaciones-don-julito-2/
-shop: Handy
+shop: teléfono móvil
 ---

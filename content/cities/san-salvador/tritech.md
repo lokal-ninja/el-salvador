@@ -1,5 +1,5 @@
 ---
 title: "TriTech"
 url: /san-salvador/tritech/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

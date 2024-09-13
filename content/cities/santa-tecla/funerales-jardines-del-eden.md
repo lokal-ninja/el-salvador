@@ -1,5 +1,5 @@
 ---
 title: "Funerales Jardines del Eden"
 url: /santa-tecla/funerales-jardines-del-eden/
-shop: Bestattungen
+shop: directores de funerarias
 ---

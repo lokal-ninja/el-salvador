@@ -1,5 +1,5 @@
 ---
 title: "Super Repuestos"
 url: /sonsonate/super-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

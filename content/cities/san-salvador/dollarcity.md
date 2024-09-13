@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /san-salvador/dollarcity/
-shop: Kramladen
+shop: tienda de variedades
 ---

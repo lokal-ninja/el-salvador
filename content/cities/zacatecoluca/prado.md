@@ -1,5 +1,5 @@
 ---
 title: "Prado"
 url: /zacatecoluca/prado/
-shop: Elektronik
+shop: electrónica
 ---

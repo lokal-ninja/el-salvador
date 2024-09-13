@@ -1,5 +1,5 @@
 ---
 title: "Comercial Deras"
 url: /zacatecoluca/comercial-deras/
-shop: Allgemein
+shop: general
 ---

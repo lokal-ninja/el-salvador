@@ -1,5 +1,5 @@
 ---
 title: "Panadería ORDADEB"
 url: /san-vicente/panaderia-ordadeb/
-shop: Bäckerei
+shop: panadería
 ---

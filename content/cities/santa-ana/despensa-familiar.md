@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /santa-ana/despensa-familiar/
-shop: Supermarkt
+shop: supermercado
 ---

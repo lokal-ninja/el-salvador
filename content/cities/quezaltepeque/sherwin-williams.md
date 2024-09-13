@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /quezaltepeque/sherwin-williams/
-shop: Farben
+shop: pintura
 ---

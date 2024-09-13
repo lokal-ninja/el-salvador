@@ -1,5 +1,5 @@
 ---
 title: "Ana Vilma"
 url: /santa-tecla/ana-vilma/
-shop: Lebensmittel
+shop: comodidad
 ---

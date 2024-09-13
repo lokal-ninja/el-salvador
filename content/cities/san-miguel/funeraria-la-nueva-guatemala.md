@@ -1,5 +1,5 @@
 ---
 title: "Funeraria La Nueva Guatemala"
 url: /san-miguel/funeraria-la-nueva-guatemala/
-shop: Bestattungen
+shop: directores de funerarias
 ---

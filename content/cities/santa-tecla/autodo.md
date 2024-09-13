@@ -1,5 +1,5 @@
 ---
 title: "Autodo"
 url: /santa-tecla/autodo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

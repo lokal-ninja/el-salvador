@@ -1,5 +1,5 @@
 ---
 title: "Deposito Cristal"
 url: /santa-ana/deposito-cristal/
-shop: Lebensmittel
+shop: comodidad
 ---

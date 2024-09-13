@@ -1,5 +1,5 @@
 ---
 title: "Cafetería Sury"
 url: /cojutepeque/cafeteria-sury/
-shop: Bäckerei
+shop: panadería
 ---

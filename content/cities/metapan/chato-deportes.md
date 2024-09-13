@@ -1,5 +1,5 @@
 ---
 title: "Chato Deportes"
 url: /metapan/chato-deportes/
-shop: Kleidung
+shop: ropa
 ---

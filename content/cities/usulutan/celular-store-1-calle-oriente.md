@@ -1,5 +1,5 @@
 ---
 title: "Celular Store"
 url: /usulutan/celular-store-1-calle-oriente/
-shop: Handy
+shop: teléfono móvil
 ---

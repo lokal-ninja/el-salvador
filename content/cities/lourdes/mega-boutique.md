@@ -1,5 +1,5 @@
 ---
 title: "Mega Boutique"
 url: /lourdes/mega-boutique/
-shop: Modehaus
+shop: tienda
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Depósito de Telas"
 url: /lourdes/deposito-de-telas/
-shop: Allgemein
+shop: general
 ---

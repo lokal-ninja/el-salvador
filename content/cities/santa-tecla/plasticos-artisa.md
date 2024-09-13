@@ -1,5 +1,5 @@
 ---
 title: "Plasticos Artisa"
 url: /santa-tecla/plasticos-artisa/
-shop: Allgemein
+shop: general
 ---

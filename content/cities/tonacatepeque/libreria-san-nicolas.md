@@ -1,5 +1,5 @@
 ---
 title: "Libreria San Nicolas"
 url: /tonacatepeque/libreria-san-nicolas/
-shop: Schreibwaren
+shop: material de oficina
 ---

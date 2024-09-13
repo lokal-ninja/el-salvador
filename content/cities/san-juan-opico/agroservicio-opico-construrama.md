@@ -1,5 +1,5 @@
 ---
 title: "Agroservicio Opico Construrama"
 url: /san-juan-opico/agroservicio-opico-construrama/
-shop: Eisenwaren
+shop: hardware
 ---

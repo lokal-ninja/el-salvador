@@ -1,5 +1,5 @@
 ---
 title: "Almacen Bomba"
 url: /sonsonate/almacen-bomba/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Micronegocio"
 url: /cojutepeque/micronegocio/
-shop: Supermarkt
+shop: supermercado
 ---

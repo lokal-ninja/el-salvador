@@ -1,5 +1,5 @@
 ---
 title: "Variedades"
 url: /zacatecoluca/variedades/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Muebles Orbe"
 url: /san-salvador/muebles-orbe/
-shop: Möbel
+shop: muebles
 ---

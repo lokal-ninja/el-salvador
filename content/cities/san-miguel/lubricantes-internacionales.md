@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Internacionales"
 url: /san-miguel/lubricantes-internacionales/
-shop: Autoteile
+shop: piezas de automóviles
 ---

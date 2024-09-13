@@ -1,5 +1,5 @@
 ---
 title: "Auto Pits"
 url: /san-salvador/auto-pits/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

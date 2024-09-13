@@ -1,5 +1,5 @@
 ---
 title: "Joyerua y Relojeria"
 url: /santa-ana/joyerua-y-relojeria/
-shop: Schmuck
+shop: joyería
 ---

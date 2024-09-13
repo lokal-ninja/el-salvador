@@ -1,5 +1,5 @@
 ---
 title: "Portillo"
 url: /san-miguel/portillo/
-shop: Elektrisch
+shop: eléctrico
 ---

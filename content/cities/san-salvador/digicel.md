@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
 url: /san-salvador/digicel/
-shop: Handy
+shop: teléfono móvil
 ---

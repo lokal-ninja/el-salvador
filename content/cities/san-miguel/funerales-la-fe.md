@@ -1,5 +1,5 @@
 ---
 title: "Funerales La Fe"
 url: /san-miguel/funerales-la-fe/
-shop: Bestattungen
+shop: directores de funerarias
 ---

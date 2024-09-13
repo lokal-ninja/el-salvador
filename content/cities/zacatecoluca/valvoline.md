@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /zacatecoluca/valvoline/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

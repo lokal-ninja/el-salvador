@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /san-salvador/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

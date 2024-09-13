@@ -1,5 +1,5 @@
 ---
 title: "Omnisport"
 url: /zacatecoluca/omnisport/
-shop: Elektronik
+shop: electrónica
 ---

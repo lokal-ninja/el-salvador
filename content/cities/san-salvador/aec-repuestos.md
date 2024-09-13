@@ -1,5 +1,5 @@
 ---
 title: "AEC Repuestos"
 url: /san-salvador/aec-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

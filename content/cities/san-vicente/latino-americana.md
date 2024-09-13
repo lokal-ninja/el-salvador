@@ -1,5 +1,5 @@
 ---
 title: "Latino Americana"
 url: /san-vicente/latino-americana/
-shop: Lebensmittel
+shop: comodidad
 ---

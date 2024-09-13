@@ -1,5 +1,5 @@
 ---
 title: "Bazar Glorimar"
 url: /soyapango/bazar-glorimar/
-shop: Kramladen
+shop: tienda de variedades
 ---

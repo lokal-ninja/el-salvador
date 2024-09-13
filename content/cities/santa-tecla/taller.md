@@ -1,5 +1,5 @@
 ---
 title: "Taller"
 url: /santa-tecla/taller/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

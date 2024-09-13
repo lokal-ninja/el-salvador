@@ -1,5 +1,5 @@
 ---
 title: "Omni Music"
 url: /santa-ana/omni-music/
-shop: Allgemein
+shop: general
 ---

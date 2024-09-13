@@ -1,5 +1,5 @@
 ---
 title: "Pupusas D'Miriam"
 url: /atiquizaya/pupusas-dmiriam/
-shop: Kiosk
+shop: quiosco
 ---

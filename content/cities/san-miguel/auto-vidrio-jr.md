@@ -1,5 +1,5 @@
 ---
 title: "Auto Vidrio JR"
 url: /san-miguel/auto-vidrio-jr/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moda Fashion"
 url: /sonsonate/moda-fashion/
-shop: Kleidung
+shop: ropa
 ---

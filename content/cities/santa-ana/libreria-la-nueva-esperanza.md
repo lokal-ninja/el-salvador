@@ -1,5 +1,5 @@
 ---
 title: "Librería La Nueva Esperanza"
 url: /santa-ana/libreria-la-nueva-esperanza/
-shop: Schreibwaren
+shop: material de oficina
 ---

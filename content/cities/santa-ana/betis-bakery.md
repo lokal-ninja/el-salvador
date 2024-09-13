@@ -1,5 +1,5 @@
 ---
 title: "Betis Bakery"
 url: /santa-ana/betis-bakery/
-shop: Bäckerei
+shop: panadería
 ---

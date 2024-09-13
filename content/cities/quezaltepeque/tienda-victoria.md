@@ -1,5 +1,5 @@
 ---
 title: "Tienda Victoria"
 url: /quezaltepeque/tienda-victoria/
-shop: Kramladen
+shop: tienda de variedades
 ---

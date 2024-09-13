@@ -1,5 +1,5 @@
 ---
 title: "Tienda Arely"
 url: /tonacatepeque/tienda-arely/
-shop: Lebensmittel
+shop: comodidad
 ---

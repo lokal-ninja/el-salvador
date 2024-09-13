@@ -1,5 +1,5 @@
 ---
 title: "Óptica Crystal"
 url: /san-miguel/optica-crystal/
-shop: Optiker
+shop: óptico
 ---

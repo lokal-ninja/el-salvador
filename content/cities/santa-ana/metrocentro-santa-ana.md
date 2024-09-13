@@ -1,5 +1,5 @@
 ---
 title: "Metrocentro Santa Ana"
 url: /santa-ana/metrocentro-santa-ana/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

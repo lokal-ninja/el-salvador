@@ -1,5 +1,5 @@
 ---
 title: "Tigo"
 url: /cojutepeque/tigo/
-shop: Handy
+shop: teléfono móvil
 ---

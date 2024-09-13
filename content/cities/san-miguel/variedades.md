@@ -1,5 +1,5 @@
 ---
 title: "Variedades"
 url: /san-miguel/variedades/
-shop: Kramladen
+shop: tienda de variedades
 ---

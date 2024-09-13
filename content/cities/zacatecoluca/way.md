@@ -1,5 +1,5 @@
 ---
 title: "Way"
 url: /zacatecoluca/way/
-shop: Motorrad
+shop: motocicleta
 ---

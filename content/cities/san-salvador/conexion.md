@@ -1,5 +1,5 @@
 ---
 title: "Conexión"
 url: /san-salvador/conexion/
-shop: Allgemein
+shop: general
 ---

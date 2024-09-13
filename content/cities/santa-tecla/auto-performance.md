@@ -1,5 +1,5 @@
 ---
 title: "Auto Performance"
 url: /santa-tecla/auto-performance/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

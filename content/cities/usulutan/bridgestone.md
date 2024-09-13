@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /usulutan/bridgestone/
-shop: Reifen
+shop: neumáticos
 ---

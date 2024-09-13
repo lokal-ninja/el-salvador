@@ -1,5 +1,5 @@
 ---
 title: "Lacteos Canaan"
 url: /san-salvador/lacteos-canaan/
-shop: Milch
+shop: lácteos
 ---

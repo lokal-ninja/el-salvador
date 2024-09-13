@@ -1,5 +1,5 @@
 ---
 title: "Farmacia Odalys"
 url: /ereguayquin/farmacia-odalys/
-shop: Supermarkt
+shop: supermercado
 ---

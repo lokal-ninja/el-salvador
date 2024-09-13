@@ -1,5 +1,5 @@
 ---
 title: "Variedades Evita"
 url: /san-salvador/variedades-evita/
-shop: Warenhaus
+shop: grandes almacenes
 ---

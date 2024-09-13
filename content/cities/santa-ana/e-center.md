@@ -1,5 +1,5 @@
 ---
 title: "E-Center"
 url: /santa-ana/e-center/
-shop: Elektronik
+shop: electrónica
 ---

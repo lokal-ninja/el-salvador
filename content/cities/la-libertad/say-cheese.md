@@ -1,5 +1,5 @@
 ---
 title: "Say Cheese"
 url: /la-libertad/say-cheese/
-shop: Käse
+shop: queso
 ---

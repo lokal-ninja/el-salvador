@@ -1,5 +1,5 @@
 ---
 title: "LACTOLAC"
 url: /nejapa/lactolac/
-shop: Milch
+shop: lácteos
 ---

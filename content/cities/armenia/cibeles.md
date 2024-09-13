@@ -1,5 +1,5 @@
 ---
 title: "Cibeles"
 url: /armenia/cibeles/
-shop: Modehaus
+shop: tienda
 ---

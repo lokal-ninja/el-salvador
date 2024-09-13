@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
 url: /san-salvador/digicel-1a-calle-poniente/
-shop: Handy
+shop: teléfono móvil
 ---

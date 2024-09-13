@@ -1,5 +1,5 @@
 ---
 title: "Comercial El Esfuerzo"
 url: /chalchuapa/comercial-el-esfuerzo/
-shop: Allgemein
+shop: general
 ---

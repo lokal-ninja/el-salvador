@@ -1,5 +1,5 @@
 ---
 title: "Abarsa"
 url: /san-salvador/abarsa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

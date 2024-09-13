@@ -1,5 +1,5 @@
 ---
 title: "Funerales Galdamez"
 url: /metapan/funerales-galdamez/
-shop: Bestattungen
+shop: directores de funerarias
 ---

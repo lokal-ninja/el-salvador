@@ -1,5 +1,5 @@
 ---
 title: "Flash Mart"
 url: /san-salvador/flash-mart/
-shop: Lebensmittel
+shop: comodidad
 ---

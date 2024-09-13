@@ -1,5 +1,5 @@
 ---
 title: "De Venta Aqui"
 url: /apopa/de-venta-aqui/
-shop: Lebensmittel
+shop: comodidad
 ---

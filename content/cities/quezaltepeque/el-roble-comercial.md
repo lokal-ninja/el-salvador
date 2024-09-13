@@ -1,5 +1,5 @@
 ---
 title: "El Roble Comercial"
 url: /quezaltepeque/el-roble-comercial/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Floristería San Miguelito"
 url: /san-miguel/floristeria-san-miguelito/
-shop: Blumen
+shop: floristería
 ---

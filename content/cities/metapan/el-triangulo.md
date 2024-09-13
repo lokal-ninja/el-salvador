@@ -1,5 +1,5 @@
 ---
 title: "El Triangulo"
 url: /metapan/el-triangulo/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

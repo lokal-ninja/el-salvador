@@ -1,5 +1,5 @@
 ---
 title: "Opitca Crystal"
 url: /santa-tecla/opitca-crystal/
-shop: Optiker
+shop: óptico
 ---

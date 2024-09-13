@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /achuachapan/tienda/
-shop: Lebensmittel
+shop: comodidad
 ---

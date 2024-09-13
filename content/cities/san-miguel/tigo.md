@@ -1,5 +1,5 @@
 ---
 title: "Tigo"
 url: /san-miguel/tigo/
-shop: Handy
+shop: teléfono móvil
 ---

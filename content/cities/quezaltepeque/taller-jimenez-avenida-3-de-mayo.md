@@ -1,5 +1,5 @@
 ---
 title: "Taller Jiménez"
 url: /quezaltepeque/taller-jimenez-avenida-3-de-mayo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

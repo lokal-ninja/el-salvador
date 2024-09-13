@@ -1,5 +1,5 @@
 ---
 title: "Repuestos El Leon"
 url: /metapan/repuestos-el-leon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

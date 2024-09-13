@@ -1,5 +1,5 @@
 ---
 title: "Libreria y Papeleria"
 url: /santa-tecla/libreria-y-papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

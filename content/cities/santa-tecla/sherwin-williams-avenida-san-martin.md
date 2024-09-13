@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /santa-tecla/sherwin-williams-avenida-san-martin/
-shop: Farben
+shop: pintura
 ---

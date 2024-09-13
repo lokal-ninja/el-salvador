@@ -1,5 +1,5 @@
 ---
 title: "Capullo"
 url: /sonsonate/capullo/
-shop: Lebensmittel
+shop: comodidad
 ---

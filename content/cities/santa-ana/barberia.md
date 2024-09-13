@@ -1,5 +1,5 @@
 ---
 title: "Barbería"
 url: /santa-ana/barberia/
-shop: Friseur
+shop: peluquería
 ---

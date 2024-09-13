@@ -1,5 +1,5 @@
 ---
 title: "Vidrí Quezaltepeque"
 url: /quezaltepeque/vidri-quezaltepeque/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Nuevo Milagro"
 url: /sonsonate/el-nuevo-milagro/
-shop: Supermarkt
+shop: supermercado
 ---

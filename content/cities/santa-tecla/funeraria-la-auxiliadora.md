@@ -1,5 +1,5 @@
 ---
 title: "Funeraria La Auxiliadora"
 url: /santa-tecla/funeraria-la-auxiliadora/
-shop: Bestattungen
+shop: directores de funerarias
 ---

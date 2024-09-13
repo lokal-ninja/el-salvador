@@ -1,5 +1,5 @@
 ---
 title: "Lubicentro"
 url: /san-miguel/lubicentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

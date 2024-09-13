@@ -1,5 +1,5 @@
 ---
 title: "Mini Tienda Agricola"
 url: /suchitoto/mini-tienda-agricola/
-shop: Kiosk
+shop: quiosco
 ---

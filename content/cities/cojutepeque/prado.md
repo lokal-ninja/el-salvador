@@ -1,5 +1,5 @@
 ---
 title: "Prado"
 url: /cojutepeque/prado/
-shop: Motorrad
+shop: motocicleta
 ---

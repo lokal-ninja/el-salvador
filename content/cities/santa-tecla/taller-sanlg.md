@@ -1,5 +1,5 @@
 ---
 title: "Taller Sanlg"
 url: /santa-tecla/taller-sanlg/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

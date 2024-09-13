@@ -1,5 +1,5 @@
 ---
 title: "Mendez Auto parts"
 url: /santa-maria/mendez-auto-parts/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

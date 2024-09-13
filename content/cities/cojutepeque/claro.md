@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /cojutepeque/claro/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LTH"
 url: /san-miguel/lth/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

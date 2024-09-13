@@ -1,5 +1,5 @@
 ---
 title: "Pops"
 url: /san-salvador/pops/
-shop: Eisprodukte
+shop: helado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comercial La Ganga"
 url: /chalchuapa/comercial-la-ganga/
-shop: Möbel
+shop: muebles
 ---

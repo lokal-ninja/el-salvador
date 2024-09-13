@@ -1,5 +1,5 @@
 ---
 title: "Totto"
 url: /santa-ana/totto/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

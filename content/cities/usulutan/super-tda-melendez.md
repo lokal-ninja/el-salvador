@@ -1,5 +1,5 @@
 ---
 title: "Super Tda. Melendez"
 url: /usulutan/super-tda-melendez/
-shop: Supermarkt
+shop: supermercado
 ---

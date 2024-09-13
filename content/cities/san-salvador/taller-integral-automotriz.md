@@ -1,5 +1,5 @@
 ---
 title: "Taller integral automotriz"
 url: /san-salvador/taller-integral-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

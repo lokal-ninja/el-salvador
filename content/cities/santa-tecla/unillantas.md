@@ -1,5 +1,5 @@
 ---
 title: "Unillantas"
 url: /santa-tecla/unillantas/
-shop: Reifen
+shop: neumáticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reparación de Motos Al Éxito"
 url: /san-miguel/reparacion-de-motos-al-exito/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

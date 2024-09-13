@@ -1,5 +1,5 @@
 ---
 title: "Pupusería"
 url: /san-bartolo/pupuseria/
-shop: Bäckerei
+shop: panadería
 ---

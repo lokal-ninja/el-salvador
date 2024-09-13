@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /apopa/despensa-familiar/
-shop: Supermarkt
+shop: supermercado
 ---

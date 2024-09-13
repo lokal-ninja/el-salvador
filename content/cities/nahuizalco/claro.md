@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /nahuizalco/claro/
-shop: Handy
+shop: teléfono móvil
 ---

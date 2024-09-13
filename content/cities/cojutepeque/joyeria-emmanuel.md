@@ -1,5 +1,5 @@
 ---
 title: "Joyeria Emmanuel"
 url: /cojutepeque/joyeria-emmanuel/
-shop: Handy
+shop: teléfono móvil
 ---

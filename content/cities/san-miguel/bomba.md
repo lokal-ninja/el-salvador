@@ -1,5 +1,5 @@
 ---
 title: "Bomba"
 url: /san-miguel/bomba/
-shop: Warenhaus
+shop: grandes almacenes
 ---

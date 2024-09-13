@@ -1,5 +1,5 @@
 ---
 title: "Aces Ferrreteria"
 url: /santa-ana/aces-ferrreteria/
-shop: Eisenwaren
+shop: hardware
 ---

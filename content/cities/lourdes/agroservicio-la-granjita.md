@@ -1,5 +1,5 @@
 ---
 title: "Agroservicio La Granjita"
 url: /lourdes/agroservicio-la-granjita/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sabrina"
 url: /ereguayquin/sabrina/
-shop: Kosmetik
+shop: cosméticos
 ---

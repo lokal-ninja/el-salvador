@@ -1,5 +1,5 @@
 ---
 title: "Premium Center"
 url: /san-salvador/premium-center/
-shop: Kleidung
+shop: ropa
 ---

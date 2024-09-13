@@ -1,5 +1,5 @@
 ---
 title: "Funerales La Buena"
 url: /san-miguel/funerales-la-buena/
-shop: Bestattungen
+shop: directores de funerarias
 ---

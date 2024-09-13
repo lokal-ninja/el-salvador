@@ -1,5 +1,5 @@
 ---
 title: "VRC Mototaller"
 url: /usulutan/vrc-mototaller/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PINSAL"
 url: /sonsonate/pinsal/
-shop: Farben
+shop: pintura
 ---

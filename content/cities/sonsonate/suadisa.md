@@ -1,5 +1,5 @@
 ---
 title: "Suadisa"
 url: /sonsonate/suadisa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

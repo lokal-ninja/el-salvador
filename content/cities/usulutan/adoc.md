@@ -1,5 +1,5 @@
 ---
 title: "ADOC"
 url: /usulutan/adoc/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Omnisport"
 url: /usulutan/omnisport/
-shop: Elektronik
+shop: electrónica
 ---

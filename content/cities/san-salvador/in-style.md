@@ -1,5 +1,5 @@
 ---
 title: "In Style"
 url: /san-salvador/in-style/
-shop: Friseur
+shop: peluquería
 ---

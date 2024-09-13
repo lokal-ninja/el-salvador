@@ -1,5 +1,5 @@
 ---
 title: "Ferrocentro"
 url: /san-salvador/ferrocentro/
-shop: Möbel
+shop: muebles
 ---

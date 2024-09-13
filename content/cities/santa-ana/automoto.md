@@ -1,5 +1,5 @@
 ---
 title: "Automoto"
 url: /santa-ana/automoto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

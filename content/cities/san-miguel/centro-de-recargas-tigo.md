@@ -1,5 +1,5 @@
 ---
 title: "Centro de Recargas Tigo"
 url: /san-miguel/centro-de-recargas-tigo/
-shop: Handy
+shop: teléfono móvil
 ---

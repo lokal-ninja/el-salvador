@@ -1,5 +1,5 @@
 ---
 title: "Vega Salon"
 url: /zaragoza/vega-salon/
-shop: Kosmetik
+shop: cosméticos
 ---

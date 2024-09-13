@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Genseis"
 url: /tonacatepeque/pasteleria-genseis/
-shop: Konditorei
+shop: pastelería
 ---

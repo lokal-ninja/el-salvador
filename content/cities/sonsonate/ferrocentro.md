@@ -1,5 +1,5 @@
 ---
 title: "Ferrocentro"
 url: /sonsonate/ferrocentro/
-shop: Möbel
+shop: muebles
 ---

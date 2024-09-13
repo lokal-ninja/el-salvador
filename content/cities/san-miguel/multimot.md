@@ -1,5 +1,5 @@
 ---
 title: "Multimot"
 url: /san-miguel/multimot/
-shop: Allgemein
+shop: general
 ---

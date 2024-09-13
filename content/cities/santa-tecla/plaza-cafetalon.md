@@ -1,5 +1,5 @@
 ---
 title: "Plaza Cafetalón"
 url: /santa-tecla/plaza-cafetalon/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller ramirez"
 url: /santa-maria/taller-ramirez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

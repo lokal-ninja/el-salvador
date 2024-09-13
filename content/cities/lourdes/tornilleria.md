@@ -1,5 +1,5 @@
 ---
 title: "Tornilleria"
 url: /lourdes/tornilleria/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bomba"
 url: /sonsonate/bomba/
-shop: Warenhaus
+shop: grandes almacenes
 ---

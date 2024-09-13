@@ -1,5 +1,5 @@
 ---
 title: "Freedom"
 url: /san-miguel/freedom/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

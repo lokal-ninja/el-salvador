@@ -1,5 +1,5 @@
 ---
 title: "Sodoma Bar"
 url: /san-rafael-obrajuelo/sodoma-bar/
-shop: Spirituosen
+shop: alcohol
 ---

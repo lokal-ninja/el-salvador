@@ -1,5 +1,5 @@
 ---
 title: "Genesis Tours"
 url: /san-miguel/genesis-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

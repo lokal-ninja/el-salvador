@@ -1,5 +1,5 @@
 ---
 title: "tigo"
 url: /usulutan/tigo/
-shop: Handy
+shop: teléfono móvil
 ---

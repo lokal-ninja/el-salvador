@@ -1,5 +1,5 @@
 ---
 title: "Taller"
 url: /zacatecoluca/taller/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

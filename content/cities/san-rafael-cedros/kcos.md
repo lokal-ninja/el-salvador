@@ -1,5 +1,5 @@
 ---
 title: "Kcos"
 url: /san-rafael-cedros/kcos/
-shop: Schreibwaren
+shop: material de oficina
 ---

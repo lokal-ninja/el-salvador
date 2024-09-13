@@ -1,5 +1,5 @@
 ---
 title: "Perro"
 url: /san-miguel/perro/
-shop: Tiere
+shop: mascotas
 ---

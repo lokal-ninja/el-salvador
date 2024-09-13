@@ -1,5 +1,5 @@
 ---
 title: "Funerales Nueva Auxiliadora"
 url: /lourdes/funerales-nueva-auxiliadora/
-shop: Bestattungen
+shop: directores de funerarias
 ---

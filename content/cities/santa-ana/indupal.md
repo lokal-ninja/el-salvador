@@ -1,5 +1,5 @@
 ---
 title: "Indupal"
 url: /santa-ana/indupal/
-shop: Eisenwaren
+shop: hardware
 ---

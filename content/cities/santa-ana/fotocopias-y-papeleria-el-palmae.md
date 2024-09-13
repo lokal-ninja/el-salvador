@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias y Papelería El Palmae"
 url: /santa-ana/fotocopias-y-papeleria-el-palmae/
-shop: Schreibwaren
+shop: material de oficina
 ---

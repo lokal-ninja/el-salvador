@@ -1,5 +1,5 @@
 ---
 title: "Bazar y Variedades Norma"
 url: /lourdes/bazar-y-variedades-norma/
-shop: Kramladen
+shop: tienda de variedades
 ---

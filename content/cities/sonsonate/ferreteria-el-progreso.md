@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria El Progreso"
 url: /sonsonate/ferreteria-el-progreso/
-shop: Eisenwaren
+shop: hardware
 ---

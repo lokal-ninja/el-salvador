@@ -1,5 +1,5 @@
 ---
 title: "La Tecleña"
 url: /sonsonate/la-teclena/
-shop: Bäckerei
+shop: panadería
 ---

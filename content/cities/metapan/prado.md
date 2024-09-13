@@ -1,5 +1,5 @@
 ---
 title: "Prado"
 url: /metapan/prado/
-shop: Warenhaus
+shop: grandes almacenes
 ---

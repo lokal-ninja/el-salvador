@@ -1,5 +1,5 @@
 ---
 title: "DiParvel"
 url: /san-salvador/diparvel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

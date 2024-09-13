@@ -1,5 +1,5 @@
 ---
 title: "Talleres Moldtrok"
 url: /san-salvador/talleres-moldtrok/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

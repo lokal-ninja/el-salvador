@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /san-salvador/dollarcity-25-avenida-norte/
-shop: Kramladen
+shop: tienda de variedades
 ---

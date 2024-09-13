@@ -1,5 +1,5 @@
 ---
 title: "Tropigas"
 url: /usulutan/tropigas/
-shop: Elektronik
+shop: electrónica
 ---

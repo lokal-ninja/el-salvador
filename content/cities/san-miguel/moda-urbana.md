@@ -1,5 +1,5 @@
 ---
 title: "Moda Urbana"
 url: /san-miguel/moda-urbana/
-shop: Kleidung
+shop: ropa
 ---

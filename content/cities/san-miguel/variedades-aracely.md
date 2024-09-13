@@ -1,5 +1,5 @@
 ---
 title: "Variedades Aracely"
 url: /san-miguel/variedades-aracely/
-shop: Kramladen
+shop: tienda de variedades
 ---

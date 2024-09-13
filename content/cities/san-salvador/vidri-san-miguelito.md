@@ -1,5 +1,5 @@
 ---
 title: "Vidrí San Miguelito"
 url: /san-salvador/vidri-san-miguelito/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

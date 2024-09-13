@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Chantilly"
 url: /cojutepeque/pasteleria-chantilly/
-shop: Bäckerei
+shop: panadería
 ---

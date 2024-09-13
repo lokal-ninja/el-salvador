@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Automotrices Laury"
 url: /zacatecoluca/repuestos-automotrices-laury/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

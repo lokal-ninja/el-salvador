@@ -1,5 +1,5 @@
 ---
 title: "Funerales Nisi"
 url: /chalchuapa/funerales-nisi/
-shop: Bestattungen
+shop: directores de funerarias
 ---

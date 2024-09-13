@@ -1,5 +1,5 @@
 ---
 title: "Piry's Ding Repair"
 url: /la-libertad/pirys-ding-repair/
-shop: Sport
+shop: deportes
 ---

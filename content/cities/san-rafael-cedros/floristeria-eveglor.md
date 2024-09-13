@@ -1,5 +1,5 @@
 ---
 title: "Floristeria EveGlor"
 url: /san-rafael-cedros/floristeria-eveglor/
-shop: Blumen
+shop: floristería
 ---

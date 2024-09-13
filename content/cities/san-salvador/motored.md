@@ -1,5 +1,5 @@
 ---
 title: "Motored"
 url: /san-salvador/motored/
-shop: Autoteile
+shop: piezas de automóviles
 ---

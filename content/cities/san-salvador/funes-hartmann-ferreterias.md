@@ -1,5 +1,5 @@
 ---
 title: "Funes-Hartmann Ferreterías"
 url: /san-salvador/funes-hartmann-ferreterias/
-shop: Eisenwaren
+shop: hardware
 ---

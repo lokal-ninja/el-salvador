@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Galher"
 url: /san-miguel/distribuidora-galher/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

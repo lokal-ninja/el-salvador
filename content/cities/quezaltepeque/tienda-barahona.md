@@ -1,5 +1,5 @@
 ---
 title: "Tienda Barahona"
 url: /quezaltepeque/tienda-barahona/
-shop: Kramladen
+shop: tienda de variedades
 ---

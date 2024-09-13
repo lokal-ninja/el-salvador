@@ -1,5 +1,5 @@
 ---
 title: "Alpine Cuisine"
 url: /santa-tecla/alpine-cuisine/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adimacon"
 url: /cojutepeque/adimacon/
-shop: Eisenwaren
+shop: hardware
 ---

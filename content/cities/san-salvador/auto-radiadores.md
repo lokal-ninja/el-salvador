@@ -1,5 +1,5 @@
 ---
 title: "Auto Radiadores"
 url: /san-salvador/auto-radiadores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

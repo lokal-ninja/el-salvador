@@ -1,5 +1,5 @@
 ---
 title: "Mery's Crochet"
 url: /berlin/merys-crochet/
-shop: Kleidung
+shop: ropa
 ---

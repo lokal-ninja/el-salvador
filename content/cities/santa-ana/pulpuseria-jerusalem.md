@@ -1,5 +1,5 @@
 ---
 title: "Pulpuseria Jerusalem"
 url: /santa-ana/pulpuseria-jerusalem/
-shop: Lebensmittel
+shop: comodidad
 ---

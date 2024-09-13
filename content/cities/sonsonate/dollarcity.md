@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /sonsonate/dollarcity/
-shop: Kramladen
+shop: tienda de variedades
 ---

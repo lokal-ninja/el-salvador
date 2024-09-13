@@ -1,5 +1,5 @@
 ---
 title: "Solipan"
 url: /lourdes/solipan/
-shop: Allgemein
+shop: general
 ---

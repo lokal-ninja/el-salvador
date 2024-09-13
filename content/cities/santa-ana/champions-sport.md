@@ -1,5 +1,5 @@
 ---
 title: "Champion's Sport"
 url: /santa-ana/champions-sport/
-shop: Allgemein
+shop: general
 ---

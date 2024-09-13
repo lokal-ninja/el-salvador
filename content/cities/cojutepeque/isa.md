@@ -1,5 +1,5 @@
 ---
 title: "ISA"
 url: /cojutepeque/isa/
-shop: Kleidung
+shop: ropa
 ---

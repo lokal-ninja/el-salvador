@@ -1,5 +1,5 @@
 ---
 title: "Cerrajeria La LLave Maestra"
 url: /apopa/cerrajeria-la-llave-maestra/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bomba"
 url: /san-vicente/bomba/
-shop: Warenhaus
+shop: grandes almacenes
 ---

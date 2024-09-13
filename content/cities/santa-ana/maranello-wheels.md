@@ -1,5 +1,5 @@
 ---
 title: "Maranello Wheels"
 url: /santa-ana/maranello-wheels/
-shop: Reifen
+shop: neumáticos
 ---

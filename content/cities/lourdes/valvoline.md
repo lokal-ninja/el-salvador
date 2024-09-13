@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /lourdes/valvoline/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

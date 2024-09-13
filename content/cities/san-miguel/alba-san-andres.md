@@ -1,5 +1,5 @@
 ---
 title: "Alba San Andrés"
 url: /san-miguel/alba-san-andres/
-shop: Lebensmittel
+shop: comodidad
 ---

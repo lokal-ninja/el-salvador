@@ -1,5 +1,5 @@
 ---
 title: "Cell Phone"
 url: /santa-tecla/cell-phone/
-shop: Handy
+shop: teléfono móvil
 ---

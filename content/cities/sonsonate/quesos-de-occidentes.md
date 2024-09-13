@@ -1,5 +1,5 @@
 ---
 title: "Quesos de Occidentes"
 url: /sonsonate/quesos-de-occidentes/
-shop: Lebensmittel
+shop: comodidad
 ---

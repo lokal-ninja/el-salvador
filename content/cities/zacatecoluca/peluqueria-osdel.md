@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Osdel"
 url: /zacatecoluca/peluqueria-osdel/
-shop: Friseur
+shop: peluquería
 ---

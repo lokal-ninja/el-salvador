@@ -1,5 +1,5 @@
 ---
 title: "Funeraria El Nocal"
 url: /san-miguel/funeraria-el-nocal/
-shop: Bestattungen
+shop: directores de funerarias
 ---

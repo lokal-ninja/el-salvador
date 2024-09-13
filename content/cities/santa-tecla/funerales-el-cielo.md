@@ -1,5 +1,5 @@
 ---
 title: "Funerales El Cielo"
 url: /santa-tecla/funerales-el-cielo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

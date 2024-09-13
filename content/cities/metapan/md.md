@@ -1,5 +1,5 @@
 ---
 title: "MD"
 url: /metapan/md/
-shop: Kleidung
+shop: ropa
 ---

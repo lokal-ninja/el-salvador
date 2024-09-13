@@ -1,5 +1,5 @@
 ---
 title: "Plaza Palmeral"
 url: /ahuachapan/plaza-palmeral/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

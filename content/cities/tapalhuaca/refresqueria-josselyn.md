@@ -1,5 +1,5 @@
 ---
 title: "Refresqueria Josselyn"
 url: /tapalhuaca/refresqueria-josselyn/
-shop: Getränke
+shop: bebidas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Puerta Del Sol"
 url: /panchimalco/ferreteria-puerta-del-sol/
-shop: Eisenwaren
+shop: hardware
 ---

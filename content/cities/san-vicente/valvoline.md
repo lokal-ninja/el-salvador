@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /san-vicente/valvoline/
-shop: Autoteile
+shop: piezas de automóviles
 ---

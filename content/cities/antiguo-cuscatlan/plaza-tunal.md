@@ -1,5 +1,5 @@
 ---
 title: "Plaza Tunal"
 url: /antiguo-cuscatlan/plaza-tunal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Impressa Repuestos"
 url: /santa-tecla/impressa-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

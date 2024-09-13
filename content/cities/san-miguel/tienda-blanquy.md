@@ -1,5 +1,5 @@
 ---
 title: "Tienda Blanquy"
 url: /san-miguel/tienda-blanquy/
-shop: Lebensmittel
+shop: comodidad
 ---

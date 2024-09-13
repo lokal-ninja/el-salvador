@@ -1,5 +1,5 @@
 ---
 title: "ZinCalor"
 url: /sonsonate/zincalor/
-shop: Eisenwaren
+shop: hardware
 ---

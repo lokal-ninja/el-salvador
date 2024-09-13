@@ -1,5 +1,5 @@
 ---
 title: "Bazar Wendy"
 url: /tonacatepeque/bazar-wendy/
-shop: Kramladen
+shop: tienda de variedades
 ---

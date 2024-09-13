@@ -1,5 +1,5 @@
 ---
 title: "Rodin"
 url: /santa-tecla/rodin/
-shop: Allgemein
+shop: general
 ---

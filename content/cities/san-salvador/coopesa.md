@@ -1,5 +1,5 @@
 ---
 title: "COOPESA"
 url: /san-salvador/coopesa/
-shop: Instrumente
+shop: instrumento musical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LCR"
 url: /santa-ana/lcr/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

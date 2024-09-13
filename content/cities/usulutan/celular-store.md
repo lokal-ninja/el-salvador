@@ -1,5 +1,5 @@
 ---
 title: "Celular Store"
 url: /usulutan/celular-store/
-shop: Handy
+shop: teléfono móvil
 ---

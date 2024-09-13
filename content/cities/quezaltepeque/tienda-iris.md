@@ -1,5 +1,5 @@
 ---
 title: "Tienda Iris"
 url: /quezaltepeque/tienda-iris/
-shop: Kramladen
+shop: tienda de variedades
 ---

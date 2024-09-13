@@ -1,5 +1,5 @@
 ---
 title: "Family Market"
 url: /berlin/family-market/
-shop: Supermarkt
+shop: supermercado
 ---

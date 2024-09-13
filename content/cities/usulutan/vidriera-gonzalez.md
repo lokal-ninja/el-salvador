@@ -1,5 +1,5 @@
 ---
 title: "Vidriera Gonzalez"
 url: /usulutan/vidriera-gonzalez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

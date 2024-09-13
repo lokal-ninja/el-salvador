@@ -1,5 +1,5 @@
 ---
 title: "Happy Pets"
 url: /santa-ana/happy-pets/
-shop: Tiere
+shop: mascotas
 ---

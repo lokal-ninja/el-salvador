@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Gotay"
 url: /san-miguel/imprenta-gotay/
-shop: Allgemein
+shop: general
 ---

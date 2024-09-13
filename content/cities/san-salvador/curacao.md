@@ -1,5 +1,5 @@
 ---
 title: "Curacao"
 url: /san-salvador/curacao/
-shop: Elektronik
+shop: electrónica
 ---

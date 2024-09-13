@@ -1,5 +1,5 @@
 ---
 title: "Lavado Y Pasteado"
 url: /cojutepeque/lavado-y-pasteado/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

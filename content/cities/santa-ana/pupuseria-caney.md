@@ -1,5 +1,5 @@
 ---
 title: "Pupuseria Caney"
 url: /santa-ana/pupuseria-caney/
-shop: Allgemein
+shop: general
 ---

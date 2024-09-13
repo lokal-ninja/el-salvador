@@ -1,5 +1,5 @@
 ---
 title: "Infrasal"
 url: /sonzacate/infrasal/
-shop: Gasflaschen
+shop: gas
 ---

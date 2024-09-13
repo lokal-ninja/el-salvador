@@ -1,5 +1,5 @@
 ---
 title: "Carpintería Romero"
 url: /usulutan/carpinteria-romero/
-shop: Möbel
+shop: muebles
 ---

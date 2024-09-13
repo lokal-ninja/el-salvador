@@ -1,5 +1,5 @@
 ---
 title: "Tienda Eben-Ezer"
 url: /san-miguel/tienda-eben-ezer/
-shop: Lebensmittel
+shop: comodidad
 ---

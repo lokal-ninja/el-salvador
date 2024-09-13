@@ -1,5 +1,5 @@
 ---
 title: "Agroferreteria La Yunta"
 url: /sonsonate/agroferreteria-la-yunta/
-shop: Eisenwaren
+shop: hardware
 ---

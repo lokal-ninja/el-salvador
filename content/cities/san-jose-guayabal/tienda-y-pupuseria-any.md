@@ -1,5 +1,5 @@
 ---
 title: "Tienda y pupuseria Any"
 url: /san-jose-guayabal/tienda-y-pupuseria-any/
-shop: Dorfladen
+shop: tienda rural
 ---

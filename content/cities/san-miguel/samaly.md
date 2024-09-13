@@ -1,5 +1,5 @@
 ---
 title: "Samaly"
 url: /san-miguel/samaly/
-shop: Allgemein
+shop: general
 ---

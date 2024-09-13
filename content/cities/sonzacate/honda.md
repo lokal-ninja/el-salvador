@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /sonzacate/honda/
-shop: Motorrad
+shop: motocicleta
 ---

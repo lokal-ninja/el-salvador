@@ -1,5 +1,5 @@
 ---
 title: "Prisma Moda"
 url: /san-miguel/prisma-moda/
-shop: Kleidung
+shop: ropa
 ---

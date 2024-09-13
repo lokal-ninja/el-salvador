@@ -1,5 +1,5 @@
 ---
 title: "GutiMotors"
 url: /san-salvador/gutimotors/
-shop: Autoteile
+shop: piezas de automóviles
 ---

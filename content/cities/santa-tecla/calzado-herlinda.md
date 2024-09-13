@@ -1,5 +1,5 @@
 ---
 title: "Calzado Herlinda"
 url: /santa-tecla/calzado-herlinda/
-shop: Schuhe
+shop: zapatos
 ---

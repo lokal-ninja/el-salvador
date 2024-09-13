@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Molina"
 url: /armenia/funeraria-molina/
-shop: Bestattungen
+shop: directores de funerarias
 ---

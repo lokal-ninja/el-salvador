@@ -1,5 +1,5 @@
 ---
 title: "Tienda Blanquita"
 url: /santa-tecla/tienda-blanquita/
-shop: Lebensmittel
+shop: comodidad
 ---

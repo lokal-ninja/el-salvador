@@ -1,5 +1,5 @@
 ---
 title: "Carpicentro"
 url: /san-salvador/carpicentro/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

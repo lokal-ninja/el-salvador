@@ -1,5 +1,5 @@
 ---
 title: "Tienda Ramos"
 url: /cojutepeque/tienda-ramos/
-shop: Lebensmittel
+shop: comodidad
 ---

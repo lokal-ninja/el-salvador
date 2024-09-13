@@ -1,5 +1,5 @@
 ---
 title: "Lineadue"
 url: /san-salvador/lineadue/
-shop: Allgemein
+shop: general
 ---

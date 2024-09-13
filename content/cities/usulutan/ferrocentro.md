@@ -1,5 +1,5 @@
 ---
 title: "Ferrocentro"
 url: /usulutan/ferrocentro/
-shop: Baustoffe
+shop: comercio
 ---

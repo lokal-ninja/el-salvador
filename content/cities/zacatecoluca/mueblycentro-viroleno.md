@@ -1,5 +1,5 @@
 ---
 title: "Mueblycentro Viroleño"
 url: /zacatecoluca/mueblycentro-viroleno/
-shop: Möbel
+shop: muebles
 ---

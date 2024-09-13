@@ -1,5 +1,5 @@
 ---
 title: "Calzado Any's"
 url: /santa-tecla/calzado-anys/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Ingles"
 url: /san-vicente/ferreteria-ingles/
-shop: Eisenwaren
+shop: hardware
 ---

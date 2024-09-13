@@ -1,5 +1,5 @@
 ---
 title: "Tienda Tila"
 url: /quezaltepeque/tienda-tila/
-shop: Kramladen
+shop: tienda de variedades
 ---

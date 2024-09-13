@@ -1,5 +1,5 @@
 ---
 title: "EXCEL Automotriz"
 url: /lourdes/excel-automotriz-carretera-panamericana/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

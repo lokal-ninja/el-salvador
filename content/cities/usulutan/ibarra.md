@@ -1,5 +1,5 @@
 ---
 title: "Ibarra"
 url: /usulutan/ibarra/
-shop: Bestattungen
+shop: directores de funerarias
 ---

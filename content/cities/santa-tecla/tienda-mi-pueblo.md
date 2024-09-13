@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mi Pueblo"
 url: /santa-tecla/tienda-mi-pueblo/
-shop: Allgemein
+shop: general
 ---

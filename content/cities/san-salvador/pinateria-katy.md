@@ -1,5 +1,5 @@
 ---
 title: "Piñateria Katy"
 url: /san-salvador/pinateria-katy/
-shop: Partyzubehör
+shop: fiesta
 ---

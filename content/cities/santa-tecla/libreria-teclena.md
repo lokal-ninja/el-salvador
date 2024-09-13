@@ -1,5 +1,5 @@
 ---
 title: "Libreria Tecleña"
 url: /santa-tecla/libreria-teclena/
-shop: Schreibwaren
+shop: material de oficina
 ---

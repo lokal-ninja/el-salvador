@@ -1,5 +1,5 @@
 ---
 title: "DIMARTI"
 url: /san-salvador/dimarti/
-shop: Möbel
+shop: muebles
 ---

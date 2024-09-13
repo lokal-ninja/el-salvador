@@ -1,5 +1,5 @@
 ---
 title: "Respuestos Guzman"
 url: /la-libertad/respuestos-guzman/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

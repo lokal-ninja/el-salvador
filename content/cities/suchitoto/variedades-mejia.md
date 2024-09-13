@@ -1,5 +1,5 @@
 ---
 title: "Variedades Mejia"
 url: /suchitoto/variedades-mejia/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Rosario"
 url: /san-salvador/panaderia-rosario/
-shop: Bäckerei
+shop: panadería
 ---

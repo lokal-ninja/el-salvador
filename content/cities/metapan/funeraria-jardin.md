@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Jardin"
 url: /metapan/funeraria-jardin/
-shop: Bestattungen
+shop: directores de funerarias
 ---

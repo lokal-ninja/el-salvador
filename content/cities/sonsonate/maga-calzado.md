@@ -1,5 +1,5 @@
 ---
 title: "Maga Calzado"
 url: /sonsonate/maga-calzado/
-shop: Schuhe
+shop: zapatos
 ---

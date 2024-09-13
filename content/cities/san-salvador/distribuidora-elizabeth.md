@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Elizabeth"
 url: /san-salvador/distribuidora-elizabeth/
-shop: Kleidung
+shop: ropa
 ---

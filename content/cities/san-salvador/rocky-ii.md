@@ -1,5 +1,5 @@
 ---
 title: "Rocky II"
 url: /san-salvador/rocky-ii/
-shop: Schuhe
+shop: zapatos
 ---

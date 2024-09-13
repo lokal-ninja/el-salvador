@@ -1,5 +1,5 @@
 ---
 title: "Dark Sweet"
 url: /san-salvador/dark-sweet/
-shop: Dorfladen
+shop: tienda rural
 ---

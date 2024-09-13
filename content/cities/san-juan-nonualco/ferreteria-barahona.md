@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Barahona"
 url: /san-juan-nonualco/ferreteria-barahona/
-shop: Eisenwaren
+shop: hardware
 ---

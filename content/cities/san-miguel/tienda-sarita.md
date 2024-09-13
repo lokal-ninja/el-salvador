@@ -1,5 +1,5 @@
 ---
 title: "Tienda Sarita"
 url: /san-miguel/tienda-sarita/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unicentro Metrópolis"
 url: /mejicanos/unicentro-metropolis/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

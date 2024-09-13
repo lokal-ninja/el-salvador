@@ -1,5 +1,5 @@
 ---
 title: "Comercios Varios"
 url: /san-jose-villa-nueva/comercios-varios/
-shop: Dorfladen
+shop: tienda rural
 ---

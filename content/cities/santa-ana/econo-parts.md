@@ -1,5 +1,5 @@
 ---
 title: "Econo Parts"
 url: /santa-ana/econo-parts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

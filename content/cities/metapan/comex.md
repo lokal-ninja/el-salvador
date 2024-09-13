@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /metapan/comex/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Santa Marina"
 url: /santa-ana/panaderia-santa-marina/
-shop: Bäckerei
+shop: panadería
 ---

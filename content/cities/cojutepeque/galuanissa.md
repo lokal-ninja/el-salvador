@@ -1,5 +1,5 @@
 ---
 title: "Galuanissa"
 url: /cojutepeque/galuanissa/
-shop: Baustoffe
+shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prado"
 url: /san-salvador/prado/
-shop: Haushaltsgeräte
+shop: aparato
 ---

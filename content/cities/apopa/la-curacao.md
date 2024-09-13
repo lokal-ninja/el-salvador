@@ -1,5 +1,5 @@
 ---
 title: "La Curacao"
 url: /apopa/la-curacao/
-shop: Warenhaus
+shop: grandes almacenes
 ---

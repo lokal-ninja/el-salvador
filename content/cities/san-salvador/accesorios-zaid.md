@@ -1,5 +1,5 @@
 ---
 title: "Accesorios zaid"
 url: /san-salvador/accesorios-zaid/
-shop: Katalog
+shop: catálogo
 ---

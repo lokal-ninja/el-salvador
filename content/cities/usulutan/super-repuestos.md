@@ -1,5 +1,5 @@
 ---
 title: "Super Repuestos"
 url: /usulutan/super-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Productos Lácteos"
 url: /urbanizacion-nuevo-lourdes/productos-lacteos/
-shop: Milch
+shop: lácteos
 ---

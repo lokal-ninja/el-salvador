@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Cortez"
 url: /san-salvador/autoservicio-cortez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

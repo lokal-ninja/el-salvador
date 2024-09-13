@@ -1,5 +1,5 @@
 ---
 title: "Bellissima Bridal"
 url: /san-salvador/bellissima-bridal/
-shop: Allgemein
+shop: general
 ---

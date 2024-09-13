@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /quezaltepeque/despensa-familiar/
-shop: Supermarkt
+shop: supermercado
 ---

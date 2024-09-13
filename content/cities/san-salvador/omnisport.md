@@ -1,5 +1,5 @@
 ---
 title: "Omnisport"
 url: /san-salvador/omnisport/
-shop: Elektronik
+shop: electrónica
 ---

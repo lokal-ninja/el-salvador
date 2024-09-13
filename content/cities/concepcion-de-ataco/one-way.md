@@ -1,5 +1,5 @@
 ---
 title: "One way"
 url: /concepcion-de-ataco/one-way/
-shop: Kleidung
+shop: ropa
 ---

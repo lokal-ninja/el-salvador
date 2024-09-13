@@ -1,5 +1,5 @@
 ---
 title: "Munfresa"
 url: /san-miguel/munfresa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

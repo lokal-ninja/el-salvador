@@ -1,5 +1,5 @@
 ---
 title: "Uno Lubricantes"
 url: /santa-ana/uno-lubricantes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

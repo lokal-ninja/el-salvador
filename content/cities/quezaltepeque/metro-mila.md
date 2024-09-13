@@ -1,5 +1,5 @@
 ---
 title: "Metro Mila"
 url: /quezaltepeque/metro-mila/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

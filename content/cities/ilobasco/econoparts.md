@@ -1,5 +1,5 @@
 ---
 title: "Econoparts"
 url: /ilobasco/econoparts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

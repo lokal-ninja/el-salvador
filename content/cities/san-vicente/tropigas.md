@@ -1,5 +1,5 @@
 ---
 title: "Tropigas"
 url: /san-vicente/tropigas/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galvanissa"
 url: /zacatecoluca/galvanissa/
-shop: Baustoffe
+shop: comercio
 ---

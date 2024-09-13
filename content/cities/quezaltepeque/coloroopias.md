@@ -1,5 +1,5 @@
 ---
 title: "Coloroopias"
 url: /quezaltepeque/coloroopias/
-shop: Schreibwaren
+shop: material de oficina
 ---

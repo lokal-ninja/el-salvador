@@ -1,5 +1,5 @@
 ---
 title: "Motosal"
 url: /santa-tecla/motosal/
-shop: Motorrad
+shop: motocicleta
 ---

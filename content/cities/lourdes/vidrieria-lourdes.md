@@ -1,5 +1,5 @@
 ---
 title: "Vidrieria Lourdes"
 url: /lourdes/vidrieria-lourdes/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stefany"
 url: /santa-ana/stefany/
-shop: Schuhe
+shop: zapatos
 ---

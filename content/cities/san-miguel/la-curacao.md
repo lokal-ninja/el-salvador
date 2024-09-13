@@ -1,5 +1,5 @@
 ---
 title: "La Curacao"
 url: /san-miguel/la-curacao/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Siman"
 url: /santa-ana/siman/
-shop: Warenhaus
+shop: grandes almacenes
 ---

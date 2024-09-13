@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Jardin"
 url: /chalchuapa/funeraria-jardin/
-shop: Bestattungen
+shop: directores de funerarias
 ---

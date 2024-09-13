@@ -1,5 +1,5 @@
 ---
 title: "Pan Genesis"
 url: /san-miguel/pan-genesis/
-shop: Supermarkt
+shop: supermercado
 ---

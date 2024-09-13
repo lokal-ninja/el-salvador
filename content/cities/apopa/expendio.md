@@ -1,5 +1,5 @@
 ---
 title: "Expendio"
 url: /apopa/expendio/
-shop: Lebensmittel
+shop: comodidad
 ---

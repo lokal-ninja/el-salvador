@@ -1,5 +1,5 @@
 ---
 title: "Central Hidraulica"
 url: /san-salvador/central-hidraulica/
-shop: Allgemein
+shop: general
 ---

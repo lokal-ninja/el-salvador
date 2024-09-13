@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /ilopango/despensa-familiar/
-shop: Supermarkt
+shop: supermercado
 ---

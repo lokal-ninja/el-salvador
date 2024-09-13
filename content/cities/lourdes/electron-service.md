@@ -1,5 +1,5 @@
 ---
 title: "Electron Service"
 url: /lourdes/electron-service/
-shop: Allgemein
+shop: general
 ---

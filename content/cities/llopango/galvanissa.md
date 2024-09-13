@@ -1,5 +1,5 @@
 ---
 title: "Galvanissa"
 url: /llopango/galvanissa/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movikal Apopa"
 url: /apopa/movikal-apopa/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /santa-ana/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

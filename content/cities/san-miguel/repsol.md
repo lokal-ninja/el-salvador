@@ -1,5 +1,5 @@
 ---
 title: "Repsol"
 url: /san-miguel/repsol/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

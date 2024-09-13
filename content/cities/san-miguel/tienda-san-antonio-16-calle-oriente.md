@@ -1,5 +1,5 @@
 ---
 title: "Tienda San Antonio"
 url: /san-miguel/tienda-san-antonio-16-calle-oriente/
-shop: Kiosk
+shop: quiosco
 ---

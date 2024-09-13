@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Puertas Del Cielo"
 url: /quezaltepeque/funeraria-puertas-del-cielo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

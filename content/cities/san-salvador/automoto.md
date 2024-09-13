@@ -1,5 +1,5 @@
 ---
 title: "Automoto"
 url: /san-salvador/automoto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publikato"
 url: /chalchuapa/publikato/
-shop: Kleidung
+shop: ropa
 ---

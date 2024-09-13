@@ -1,5 +1,5 @@
 ---
 title: "Aidas Salón"
 url: /santa-ana/aidas-salon/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variedades Belen"
 url: /suchitoto/variedades-belen/
-shop: Kleidung
+shop: ropa
 ---

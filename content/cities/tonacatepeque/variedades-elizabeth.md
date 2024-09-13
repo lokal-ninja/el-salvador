@@ -1,5 +1,5 @@
 ---
 title: "Variedades Elizabeth"
 url: /tonacatepeque/variedades-elizabeth/
-shop: Kramladen
+shop: tienda de variedades
 ---

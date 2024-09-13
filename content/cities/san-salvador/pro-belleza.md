@@ -1,5 +1,5 @@
 ---
 title: "Pro Belleza"
 url: /san-salvador/pro-belleza/
-shop: Kosmetik
+shop: cosméticos
 ---

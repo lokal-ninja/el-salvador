@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Internacional"
 url: /metapan/lubricentro-internacional/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

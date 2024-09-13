@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /antiguo-cuscatlan/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

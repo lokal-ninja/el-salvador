@@ -1,5 +1,5 @@
 ---
 title: "Centro de Compras Tinteral"
 url: /coatepeque/centro-de-compras-tinteral/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

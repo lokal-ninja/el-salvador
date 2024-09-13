@@ -1,5 +1,5 @@
 ---
 title: "Battery Center"
 url: /san-salvador/battery-center/
-shop: Autoteile
+shop: piezas de automóviles
 ---
