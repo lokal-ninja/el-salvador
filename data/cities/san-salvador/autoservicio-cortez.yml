@@ -1,11 +1,11 @@
 id: 1092232194
-type: way
+type: node
 latitude: 13.70142
 longitude: -89.1846
 postcode: ""
 city: San Salvador
-street: "Alameda Juan Pablo II"
-housenumber: 746
+street: Alameda Juan Pablo II
+housenumber: "746"
 phone: ""
 opening_hours: ""
 website: ""

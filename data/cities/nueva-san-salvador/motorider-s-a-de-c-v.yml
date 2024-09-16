@@ -1,11 +1,11 @@
 id: 374109634
-type: way
+type: node
 latitude: 13.67133
 longitude: -89.29686
 postcode: ""
 city: Nueva San Salvador
-street: "Boulevard Sur"
-housenumber: Centro Comercial Pinares de Suiza #5
-phone: "+503 2228 1995"
+street: Boulevard Sur
+housenumber: 'Centro Comercial Pinares de Suiza #5'
+phone: +503 2228 1995
 opening_hours: ""
-website: "http://motorider.com.sv/"
+website: http://motorider.com.sv/

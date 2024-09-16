@@ -1,11 +1,11 @@
 id: 400014179
-type: way
+type: node
 latitude: 13.71759
 longitude: -88.93277
 postcode: ""
 city: Cojutepeque
-street: "Avenida Rafael Cabrera"
-housenumber: 
+street: Avenida Rafael Cabrera
+housenumber: ""
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-19:30"
+opening_hours: PH,Mo-Su 07:00-19:30
 website: ""

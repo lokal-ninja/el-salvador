@@ -1,11 +1,11 @@
 id: 400832490
-type: way
+type: node
 latitude: 13.69343
 longitude: -89.23434
 postcode: ""
 city: San Salvador
-street: "Calle La Reforma"
-housenumber: 205
+street: Calle La Reforma
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

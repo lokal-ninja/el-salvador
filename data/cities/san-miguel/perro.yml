@@ -1,11 +1,11 @@
 id: 401504850
-type: way
+type: node
 latitude: 13.47171
 longitude: -88.17907
 postcode: ""
 city: San Miguel
-street: "7ª Avenida Sur"
-housenumber: 603
+street: 7ª Avenida Sur
+housenumber: "603"
 phone: ""
 opening_hours: ""
 website: ""

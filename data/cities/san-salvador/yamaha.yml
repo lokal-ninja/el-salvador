@@ -1,11 +1,11 @@
 id: 399533767
-type: way
+type: node
 latitude: 13.70858
 longitude: -89.24846
 postcode: ""
 city: San Salvador
-street: "7a Calle Poniente Bis"
-housenumber: 510
+street: 7a Calle Poniente Bis
+housenumber: "510"
 phone: "+50322981818"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
-website: "https://www.yamaha-motor.com.sv/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
+website: https://www.yamaha-motor.com.sv/

@@ -1,11 +1,11 @@
 id: 1133359909
-type: way
+type: node
 latitude: 13.71286
 longitude: -89.18627
 postcode: ""
 city: San Salvador
-street: "29 Calle Oriente"
-housenumber: 
+street: 29 Calle Oriente
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off
 website: ""

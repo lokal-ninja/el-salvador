@@ -1,11 +1,11 @@
 id: 1217786214
-type: way
+type: node
 latitude: 13.70405
 longitude: -89.25004
 postcode: "01101"
 city: San Salvador
-street: "Rotonda Masferrer"
-housenumber: 
-phone: "7877-9387"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Rotonda Masferrer
+housenumber: ""
+phone: 7877-9387
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

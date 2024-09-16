@@ -1,11 +1,11 @@
 id: 400330635
-type: way
+type: node
 latitude: 13.69616
 longitude: -89.25
 postcode: ""
 city: San Salvador
-street: "Calle La Jacaranda"
-housenumber: 
+street: Calle La Jacaranda
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

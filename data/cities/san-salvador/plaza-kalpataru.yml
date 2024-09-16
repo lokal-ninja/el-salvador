@@ -1,11 +1,11 @@
 id: 198110763
-type: way
+type: node
 latitude: 13.69773
 longitude: -89.24582
 postcode: ""
 city: San Salvador
-street: "Calle La Mascota"
-housenumber: 225
+street: Calle La Mascota
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

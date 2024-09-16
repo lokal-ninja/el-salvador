@@ -1,11 +1,11 @@
 id: 1224012264
-type: way
+type: node
 latitude: 13.71711
 longitude: -89.18961
 postcode: ""
 city: San Salvador
-street: "2ª Avenida Norte"
-housenumber: 2033
-phone: "+503 6122 0830"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: 2ª Avenida Norte
+housenumber: "2033"
+phone: +503 6122 0830
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 539713632
-type: way
+type: node
 latitude: 13.70277
 longitude: -89.24415
 postcode: ""
 city: San Salvador
-street: "Calle Circunvalación"
-housenumber: 188
+street: Calle Circunvalación
+housenumber: "188"
 phone: ""
 opening_hours: ""
 website: ""

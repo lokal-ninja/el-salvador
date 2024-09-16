@@ -1,11 +1,11 @@
 id: 400825891
-type: way
+type: node
 latitude: 13.69187
 longitude: -89.21259
 postcode: ""
 city: San Salvador
-street: "41 Avenida Sur"
-housenumber: 2230
+street: 41 Avenida Sur
+housenumber: "2230"
 phone: ""
 opening_hours: ""
 website: ""

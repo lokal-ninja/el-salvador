@@ -1,11 +1,11 @@
 id: 400269788
-type: way
+type: node
 latitude: 13.69812
 longitude: -89.24281
 postcode: ""
 city: San Salvador
-street: "Calle La Mascota"
-housenumber: 
-phone: "2133-0500"
-opening_hours: "Lunes-Miercoles 09:00-19:00 Jueves-Sabado 09:00-21:00"
+street: Calle La Mascota
+housenumber: ""
+phone: 2133-0500
+opening_hours: Lunes-Miercoles 09:00-19:00 Jueves-Sabado 09:00-21:00
 website: ""

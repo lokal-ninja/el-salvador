@@ -4,8 +4,8 @@ latitude: 13.70427
 longitude: -89.18172
 postcode: "01101"
 city: San Salvador
-street: "Calle Principal"
-housenumber: 210
+street: Calle Principal
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

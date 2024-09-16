@@ -1,11 +1,11 @@
 id: 290281857
-type: way
+type: node
 latitude: 13.66361
 longitude: -89.24937
 postcode: ""
 city: Antiguo Cuscatlán
-street: "Avenida El Pepeto Norte"
-housenumber: 86
+street: Avenida El Pepeto Norte
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:30"
+opening_hours: Mo-Su 09:00-20:30
 website: ""

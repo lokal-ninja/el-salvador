@@ -1,11 +1,11 @@
 id: 398191973
-type: way
+type: node
 latitude: 13.73263
 longitude: -89.36718
 postcode: ""
 city: Lourdes
-street: "9a Avenida Oriente"
-housenumber: 44
+street: 9a Avenida Oriente
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

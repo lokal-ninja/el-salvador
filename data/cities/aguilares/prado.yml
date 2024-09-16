@@ -1,11 +1,11 @@
 id: 400020599
-type: way
+type: node
 latitude: 13.95752
 longitude: -89.18646
 postcode: ""
 city: Aguilares
-street: "Avenida Central Norte"
-housenumber: 
+street: Avenida Central Norte
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

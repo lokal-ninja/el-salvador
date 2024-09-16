@@ -1,11 +1,11 @@
 id: 400845020
-type: way
+type: node
 latitude: 13.91986
 longitude: -89.84455
 postcode: ""
 city: Achuachapan
-street: "5 Avenida Sur"
-housenumber: 12
+street: 5 Avenida Sur
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

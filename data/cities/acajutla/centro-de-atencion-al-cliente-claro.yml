@@ -1,11 +1,13 @@
 id: 1014177070
-type: way
+type: node
 latitude: 13.59015
 longitude: -89.83185
 postcode: ""
 city: Acajutla
-street: "Boulevard 25 de Febrero"
-housenumber: 
+street: Boulevard 25 de Febrero
+housenumber: ""
 phone: "24525021"
-opening_hours: "viernes 8:15 a. m.-5 p. m.  sábado 8:15 a. m.-12 p. m.  domingo Cerrado  lunes 8:15 a. m.-5 p. m.  martes 8:15 a. m.-5 p. m.  miércoles 8:15 a. m.-5 p. m.  jueves 8:15 a. m.-5 p. m."
+opening_hours: viernes 8:15 a. m.-5 p. m.  sábado 8:15 a. m.-12 p. m.  domingo Cerrado  lunes
+    8:15 a. m.-5 p. m.  martes 8:15 a. m.-5 p. m.  miércoles 8:15 a. m.-5 p. m.  jueves
+    8:15 a. m.-5 p. m.
 website: ""

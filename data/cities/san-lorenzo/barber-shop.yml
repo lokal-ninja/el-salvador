@@ -1,11 +1,11 @@
 id: 1075650799
-type: way
+type: node
 latitude: 13.70573
 longitude: -88.80434
 postcode: ""
 city: San Lorenzo
-street: "Avenida Scout Norte"
-housenumber: 4
+street: Avenida Scout Norte
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 291547040
-type: way
+type: node
 latitude: 13.66666
 longitude: -89.25501
 postcode: ""
 city: San Salvador
-street: "Calle Conchagua Pte"
-housenumber: 13
+street: Calle Conchagua Pte
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

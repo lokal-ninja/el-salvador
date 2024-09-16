@@ -1,11 +1,11 @@
 id: 400334442
-type: way
+type: node
 latitude: 13.48768
 longitude: -88.17149
 postcode: ""
 city: San Miguel
-street: "10 Avenida Norte"
-housenumber: 30
+street: 10 Avenida Norte
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""
