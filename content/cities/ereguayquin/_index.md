@@ -1,6 +1,6 @@
 ---
 title: Ereguayquín
 url: /ereguayquin/
-latitude: 13.344
-longitude: -88.388
+latitude: 13.342
+longitude: -88.393
 ---
