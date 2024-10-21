@@ -1,6 +1,6 @@
 ---
 title: Sonzacate
 url: /sonzacate/
-latitude: 13.729
-longitude: -89.715
+latitude: 13.739
+longitude: -89.708
 ---
