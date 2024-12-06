@@ -1,5 +1,5 @@
 ---
-title: "la curacao"
+title: "La Curacao"
 url: /san-vicente/la-curacao/
-shop: grandes almacenes
+shop: electrónica
 ---

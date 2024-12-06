@@ -1,5 +1,5 @@
 ---
-title: "La Casa del Agricultor"
+title: "La casa del Agricultor"
 url: /quezaltepeque/la-casa-del-agricultor-2-avenida-norte/
-shop: hágalo usted mismo
+shop: piezas de automóviles
 ---

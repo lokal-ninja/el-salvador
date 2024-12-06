@@ -1,5 +1,5 @@
 ---
 title: "Super Selectos"
-url: /san-martin/super-selectos/
+url: /santa-ana/super-selectos/
 shop: supermercado
 ---
