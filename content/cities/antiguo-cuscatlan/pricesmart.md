@@ -1,5 +1,5 @@
 ---
-title: "Pricesmart"
+title: "PriceSmart"
 url: /antiguo-cuscatlan/pricesmart/
-shop: supermercado
+shop: mayorista
 ---

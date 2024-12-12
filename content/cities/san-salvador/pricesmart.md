@@ -1,5 +1,5 @@
 ---
-title: "Pricesmart"
+title: "PriceSmart"
 url: /san-salvador/pricesmart/
-shop: supermercado
+shop: mayorista
 ---
