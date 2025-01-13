@@ -1,6 +1,6 @@
 ---
 title: Santa Tecla
 url: /santa-tecla/
-latitude: 13.672
-longitude: -89.294
+latitude: 13.674
+longitude: -89.3
 ---
