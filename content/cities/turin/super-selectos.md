@@ -1,5 +1,5 @@
 ---
 title: "Super Selectos"
-url: /sonsonate/super-selectos-2/
+url: /turin/super-selectos/
 shop: supermercado
 ---

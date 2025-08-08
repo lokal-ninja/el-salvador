@@ -1,6 +1,6 @@
 ---
-title: Soyapango
+title: SOYAPANGO
 url: /soyapango/
-latitude: 13.689
-longitude: -89.138
+latitude: 13.698
+longitude: -89.151
 ---

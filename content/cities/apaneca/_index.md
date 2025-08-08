@@ -1,6 +1,6 @@
 ---
 title: Apaneca
 url: /apaneca/
-latitude: 13.858
-longitude: -89.805
+latitude: 13.863
+longitude: -89.801
 ---
