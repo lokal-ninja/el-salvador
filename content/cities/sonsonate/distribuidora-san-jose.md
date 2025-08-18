@@ -1,5 +1,5 @@
 ---
-title: "Distribuidora San José"
+title: "Distribuidora San Jose"
 url: /sonsonate/distribuidora-san-jose/
 shop: aparato
 ---
