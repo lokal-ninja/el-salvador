@@ -1,5 +1,5 @@
 ---
-title: "Optica Rivas"
+title: "Óptica Rivas"
 url: /santa-ana/optica-rivas/
 shop: óptico
 ---

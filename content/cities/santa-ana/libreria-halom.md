@@ -1,5 +1,5 @@
 ---
-title: "Libreria Halom"
+title: "Librería Halom"
 url: /santa-ana/libreria-halom/
 shop: libros
 ---

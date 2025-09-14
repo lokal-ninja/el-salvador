@@ -1,5 +1,5 @@
 ---
-title: "Acosta repuestos"
+title: "Acosta Repuestos"
 url: /santa-ana/acosta-repuestos/
 shop: general
 ---

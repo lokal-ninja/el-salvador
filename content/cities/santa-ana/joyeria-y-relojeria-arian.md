@@ -1,5 +1,5 @@
 ---
-title: "Joyeria Y Relojeria Arian"
+title: "Joyería y Relojería Arian"
 url: /santa-ana/joyeria-y-relojeria-arian/
 shop: joyería
 ---

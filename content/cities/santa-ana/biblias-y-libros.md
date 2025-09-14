@@ -1,5 +1,5 @@
 ---
-title: "Biblias Y Libros"
+title: "Biblias y Libros"
 url: /santa-ana/biblias-y-libros/
 shop: libros
 ---

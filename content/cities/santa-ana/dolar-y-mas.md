@@ -1,5 +1,5 @@
 ---
-title: "Dolar Y Mas"
+title: "Dolar y Mas"
 url: /santa-ana/dolar-y-mas/
 shop: comodidad
 ---

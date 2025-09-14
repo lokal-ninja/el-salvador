@@ -1,5 +1,5 @@
 ---
-title: "Reparacion de Bicicletas Gonzalez"
+title: "Reparación de Bicicletas González"
 url: /santa-ana/reparacion-de-bicicletas-gonzalez/
 shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cerveceria Carmencita"
+title: "Cervecería Carmencita"
 url: /santa-ana/cerveceria-carmencita/
 shop: general
 ---

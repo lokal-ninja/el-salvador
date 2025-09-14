@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
-url: /san-salvador/dollarcity-boulevard-santa-elena/
+url: /san-salvador/dollarcity-2/
 shop: tienda de variedades
 ---
