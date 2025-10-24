@@ -1,6 +1,6 @@
 ---
 title: Quezaltepeque
 url: /quezaltepeque/
-latitude: 13.825
-longitude: -89.271
+latitude: 13.839
+longitude: -89.29
 ---
