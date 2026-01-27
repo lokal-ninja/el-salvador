@@ -1,5 +1,5 @@
 ---
-title: "Super Repuestos"
+title: "Súper Repuestos"
 url: /lourdes/super-repuestos/
 shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Optica Maxívisión"
+title: "Óptica Maxivisión"
 url: /metapan/optica-maxivision/
 shop: óptico
 ---

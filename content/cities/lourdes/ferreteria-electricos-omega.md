@@ -1,5 +1,5 @@
 ---
-title: "Ferretería Electricos Omega"
+title: "Ferretería Eléctricos Omega"
 url: /lourdes/ferreteria-electricos-omega/
 shop: hardware
 ---

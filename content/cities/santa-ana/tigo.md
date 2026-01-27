@@ -1,5 +1,5 @@
 ---
 title: "Tigo"
 url: /santa-ana/tigo/
-shop: general
+shop: teléfono móvil
 ---

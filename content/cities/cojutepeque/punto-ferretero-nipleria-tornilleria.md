@@ -1,5 +1,5 @@
 ---
-title: "Punto Ferretero Nipleria Tornilleria"
+title: "Punto Ferretero Niplería Tornillería"
 url: /cojutepeque/punto-ferretero-nipleria-tornilleria/
 shop: hardware
 ---

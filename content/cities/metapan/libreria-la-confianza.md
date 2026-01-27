@@ -1,5 +1,5 @@
 ---
-title: "Libreria La Confianza"
+title: "Librería La Confianza"
 url: /metapan/libreria-la-confianza/
 shop: libros
 ---

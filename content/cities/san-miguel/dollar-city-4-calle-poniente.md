@@ -1,5 +1,5 @@
 ---
 title: "Dollar City"
-url: /santa-ana/dollar-city/
+url: /san-miguel/dollar-city-4-calle-poniente/
 shop: tienda de variedades
 ---

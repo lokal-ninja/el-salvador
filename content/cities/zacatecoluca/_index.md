@@ -1,6 +1,6 @@
 ---
 title: Zacatecoluca
 url: /zacatecoluca/
-latitude: 13.506
-longitude: -88.868
+latitude: 13.509
+longitude: -88.873
 ---

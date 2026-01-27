@@ -1,5 +1,5 @@
 ---
-title: "Super Tienda La Bodeguita"
+title: "Súper Tienda La Bodeguita"
 url: /lourdes/super-tienda-la-bodeguita/
 shop: general
 ---
