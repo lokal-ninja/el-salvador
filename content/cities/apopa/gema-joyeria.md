@@ -1,5 +1,5 @@
 ---
-title: "Gema Joyeria"
+title: "Gema Joyería"
 url: /apopa/gema-joyeria/
 shop: joyería
 ---

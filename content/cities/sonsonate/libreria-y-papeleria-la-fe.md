@@ -1,5 +1,5 @@
 ---
-title: "Libreria y Papeleria La Fe"
+title: "Librería y Papelería La Fe"
 url: /sonsonate/libreria-y-papeleria-la-fe/
-shop: copyshop
+shop: material de oficina
 ---

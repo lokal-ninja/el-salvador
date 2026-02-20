@@ -1,5 +1,5 @@
 ---
-title: "Almacen Susy"
+title: "Almacén Susy"
 url: /metapan/almacen-susy/
 shop: general
 ---

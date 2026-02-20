@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria El Indio"
+title: "Ferretería El Indio"
 url: /metapan/ferreteria-el-indio/
 shop: hardware
 ---

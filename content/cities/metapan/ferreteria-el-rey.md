@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria El Rey"
+title: "Ferretería El Rey"
 url: /metapan/ferreteria-el-rey/
 shop: hardware
 ---

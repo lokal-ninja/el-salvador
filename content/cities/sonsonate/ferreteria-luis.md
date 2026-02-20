@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria Luis"
+title: "Ferretería Luis"
 url: /sonsonate/ferreteria-luis/
 shop: hardware
 ---

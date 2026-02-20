@@ -1,5 +1,5 @@
 ---
 title: "La Curacao"
 url: /apopa/la-curacao-avenida-quirino-chavez-sur/
-shop: grandes almacenes
+shop: electrónica
 ---

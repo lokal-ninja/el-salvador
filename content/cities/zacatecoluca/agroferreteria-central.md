@@ -1,5 +1,5 @@
 ---
-title: "Agroferreteria Central"
+title: "Agroferretería Central"
 url: /zacatecoluca/agroferreteria-central/
 shop: hardware
 ---

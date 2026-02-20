@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria El Morrito"
+title: "Ferretería El Morrito"
 url: /guaymango/ferreteria-el-morrito/
 shop: hardware
 ---

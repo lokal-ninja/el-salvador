@@ -1,5 +1,5 @@
 ---
-title: "Electronica Japonesa"
+title: "Electrónica Japonesa"
 url: /sonsonate/electronica-japonesa/
-shop: general
+shop: electrónica
 ---

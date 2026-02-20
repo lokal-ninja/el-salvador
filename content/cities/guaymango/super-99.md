@@ -1,5 +1,5 @@
 ---
-title: "Super 99"
+title: "Súper 99"
 url: /guaymango/super-99/
 shop: supermercado
 ---

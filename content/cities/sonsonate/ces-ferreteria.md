@@ -1,5 +1,5 @@
 ---
-title: "CES Ferreteria"
+title: "CES Ferretería"
 url: /sonsonate/ces-ferreteria/
 shop: hardware
 ---

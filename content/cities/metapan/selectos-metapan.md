@@ -1,5 +1,5 @@
 ---
-title: "Selectos Metapan"
+title: "Selectos Metapán"
 url: /metapan/selectos-metapan/
 shop: supermercado
 ---

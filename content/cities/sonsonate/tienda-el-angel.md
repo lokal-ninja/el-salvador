@@ -1,5 +1,5 @@
 ---
-title: "Tienda El Angel"
+title: "Tienda El Ángel"
 url: /sonsonate/tienda-el-angel/
 shop: general
 ---

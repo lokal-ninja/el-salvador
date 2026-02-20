@@ -1,5 +1,5 @@
 ---
-title: "Picaras Boutique"
+title: "Pícaras Boutique"
 url: /metapan/picaras-boutique/
-shop: tienda
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria San Jose"
+title: "Ferretería San José"
 url: /metapan/ferreteria-san-jose/
 shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Almacen Los Niños"
+title: "Almacén Los Niños"
 url: /metapan/almacen-los-ninos/
 shop: juguetes
 ---

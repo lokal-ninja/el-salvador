@@ -1,5 +1,5 @@
 ---
-title: "LCR La Casa Del Repuesto"
+title: "LCR La Casa del Repuesto"
 url: /sonsonate/lcr-la-casa-del-repuesto/
 shop: piezas de automóviles
 ---

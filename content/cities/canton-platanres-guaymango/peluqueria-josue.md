@@ -1,5 +1,5 @@
 ---
-title: "Peluqueria Josué"
+title: "Peluquería Josué"
 url: /canton-platanres-guaymango/peluqueria-josue/
 shop: peluquería
 ---
