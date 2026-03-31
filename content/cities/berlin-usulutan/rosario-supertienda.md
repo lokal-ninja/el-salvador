@@ -1,5 +1,5 @@
 ---
 title: "Rosario Supertienda"
-url: /berlin/rosario-supertienda/
+url: /berlin-usulutan/rosario-supertienda/
 shop: supermercado
 ---
