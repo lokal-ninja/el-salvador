@@ -1,6 +1,6 @@
 ---
-title: TURIN
+title: Turín
 url: /turin/
-latitude: 13.958
-longitude: -89.767
+latitude: 13.966
+longitude: -89.766
 ---
