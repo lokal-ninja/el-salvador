@@ -1,6 +1,6 @@
 ---
 title: Ahuachapán
 url: /ahuachapan/
-latitude: 13.916
-longitude: -89.849
+latitude: 13.926
+longitude: -89.845
 ---
