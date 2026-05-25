@@ -1,6 +1,6 @@
 ---
 title: Sonsonate
 url: /sonsonate/
-latitude: 13.717
-longitude: -89.722
+latitude: 13.718
+longitude: -89.724
 ---
