@@ -1,6 +1,6 @@
 ---
-title: Usulután
+title: Usulutan
 url: /usulutan/
-latitude: 13.344
-longitude: -88.44
+latitude: 13.343
+longitude: -88.436
 ---
