@@ -1,6 +1,6 @@
 ---
 title: Acajutla
 url: /acajutla/
-latitude: 13.588
-longitude: -89.829
+latitude: 13.638
+longitude: -89.844
 ---
