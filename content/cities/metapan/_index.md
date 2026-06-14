@@ -1,6 +1,6 @@
 ---
 title: Metapán
 url: /metapan/
-latitude: 14.331
-longitude: -89.447
+latitude: 14.333
+longitude: -89.448
 ---

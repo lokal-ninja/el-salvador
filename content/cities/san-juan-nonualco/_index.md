@@ -1,6 +1,6 @@
 ---
 title: San Juan Nonualco
 url: /san-juan-nonualco/
-latitude: 13.506
+latitude: 13.504
 longitude: -88.898
 ---
