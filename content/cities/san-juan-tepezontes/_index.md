@@ -1,6 +1,6 @@
 ---
 title: San Juan Tepezontes
 url: /san-juan-tepezontes/
-latitude: 13.614
-longitude: -89.007
+latitude: 13.588
+longitude: -89
 ---

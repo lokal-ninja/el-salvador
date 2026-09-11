@@ -1,5 +1,5 @@
 ---
-title: "Osmin Mechanic"
+title: "Osmín Mechanic"
 url: /san-blas/osmin-mechanic/
 shop: reparación de automóviles
 ---

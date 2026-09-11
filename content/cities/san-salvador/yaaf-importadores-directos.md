@@ -1,5 +1,5 @@
 ---
-title: "YAAF IMPORTADORES DIRECTOS"
+title: "YAAF Importadores Directos"
 url: /san-salvador/yaaf-importadores-directos/
-shop: general
+shop: cosméticos
 ---
