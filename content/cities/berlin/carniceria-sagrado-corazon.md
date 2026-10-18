@@ -1,5 +1,5 @@
 ---
-title: "Carniceria Sagrado Corazon"
+title: "Carnicería Sagrado Corazón"
 url: /berlin/carniceria-sagrado-corazon/
 shop: carnicero
 ---
